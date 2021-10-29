@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQ6ZhKCpxghZmrYnjyF71dc/yggl35x817k+vtikUU4iBTpWKKIvvLwv2DWW565A1vZO99WOwLN74oCZIKfnnA==",
+  "success": true,
+  "projectFilePath": "E:\\20203\\misa_fresher\\Giai_doan_1\\MISA_AMIS\\amis_backend\\MISA.AMIS\\MISA.CukCuk.ApplicationCore\\MISA.Amis.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\mysqlconnector\\1.3.11\\mysqlconnector.1.3.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\EMIS.QLTH.DataAccess.csproj.AssemblyReference.cache
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\EMIS.QLTH.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\EMIS.QLTH.DataAccess.AssemblyInfoInputs.cache
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\EMIS.QLTH.DataAccess.AssemblyInfo.cs
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\EMIS.QLTH.DataAccess.csproj.CoreCompileInputs.cache
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\EMIS.QLTH.DataAccess.deps.json
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\EMIS.QLTH.DataAccess.dll
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\ref\EMIS.QLTH.DataAccess.dll
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\EMIS.QLTH.DataAccess.pdb
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\EMIS.QLTH.Business.dll
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\EMIS.QLTH.Business.pdb
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\EMIS.QLTH.DataAccess.csproj.CopyComplete
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\EMIS.QLTH.DataAccess.dll
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\ref\EMIS.QLTH.DataAccess.dll
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\EMIS.QLTH.DataAccess.pdb

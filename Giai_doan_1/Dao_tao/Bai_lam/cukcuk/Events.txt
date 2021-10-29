@@ -1,0 +1,13 @@
+	Cac su kien:
+Thu nho navbar -> ok
+
+Focus, blur input -> thêm, bỏ border -> ok
+Dropdown main -> ok
+
+Xu ly hien modal -> ok
+Huy nhap thong tin va xoa nd ben trong -> ok
+Dropdown form them nhan vien -> ok
+
+DblClick row hien thi thong tin chi tiet -> ok
+
+

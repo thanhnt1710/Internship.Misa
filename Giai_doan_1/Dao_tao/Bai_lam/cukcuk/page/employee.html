@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+    <!-- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="../Resource/fontawesome-free-5.15.3-web/fontawesome-free-5.15.3-web/css/all.min.css" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="../lib/jquery-ui.min.css"> -->
+    <link rel="stylesheet" href="../css/commom/main.css">
+    <link rel="stylesheet" href="../css/commom/navbar.css">
+    <link rel="stylesheet" href="../css/commom/header.css">
+    <link rel="stylesheet" href="../css/commom/combobox.css">
+    <link rel="stylesheet" href="../css/commom/modal.css">
+    <link rel="stylesheet" href="../css/commom/popup_toast.css">
+    <link rel="stylesheet" href="../css/page/employee.css">
+</head>
+<body>
+    <div class="app grid-fullwidth">
+        <div class="container grid__row">
+            <div class="navbar grid__column-2">
+                <div class="navbar__header">
+                    <a href="" class="navbar__header-link">
+                        <img src="../Resource/img/toggle.png" alt="" class="navbar__header-link__img">
+                    </a>
+                    <div class="narbar__header-logo">
+                        <a href="" class="narbar__header-logo__link">
+                            <img src="../Resource/cukcuk-logo.png" alt="" class="narbar__header-logo__img">
+                        </a>
+                    </div>
+                </div>
+                <div class="navbar__content">
+                    <ul class="navbar__list">
+                        <li class="navbar__list-item">
+                            <div class="navbar__list-item__icon">
+                                <img src="../Resource/icon/document-online.png" alt="" class="">
+                            </div>
+                            <a href="" class="navbar__list-item-link">Tổng quan</a>
+                        </li>
+                        <li class="navbar__list-item">
+                            <div class="navbar__list-item__icon">
+                                <img src="../Resource/icon/report.png" alt="" class="">
+                            </div>
+                            <a href="" class="navbar__list-item-link">Báo cáo</a>
+                        </li>
+                        <li class="navbar__list-item">
+                            <div class="navbar__list-item__icon">
+                                <img src="../Resource/icon/dashboard.png" alt="" class="">
+                            </div>
+                            <a href="" class="navbar__list-item-link">Mua hàng</a>
+                        </li>
+                        <li class="navbar__list-item navbar__list-item__current">
+                            <div class="navbar__list-item__icon">
+                                <img src="../Resource/icon/dic-employee.png" alt="" class="">
+                            </div>
+                            <a href="" class="navbar__list-item-link">Danh mục nhân viên</a>
+                        </li>
+                        <li class="navbar__list-item">
+                            <div class="navbar__list-item__icon">
+                                <img src="../Resource/icon/dic-employee.png" alt="" class="">
+                            </div>
+                            <a href="" class="navbar__list-item-link">Danh mục khách hàng</a>
+                        </li>
+                        <li class="navbar__list-item">
+                            <div class="navbar__list-item__icon">
+                                <img src="../Resource/icon/setting.png" alt="" class="">
+                            </div>
+                            <a href="" class="navbar__list-item-link">Thiết lập hệ thống</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="navbar__btn">
+                    <i class="navbar__btn-moveleft fas fa-chevron-left"></i>
+                    <i class="navbar__btn-moveright fas fa-chevron-right"></i>
+                </div>
+            </div>
+
+            <div class="main grid__column-10">
+                <header class="header">
+                    <div class="header__dropdown">
+                        <div class="header__dropdown-top">
+                            <button class="header__dropdown-btn">Nhà hàng Biển Đông</button>
+                            <i class="header__dropdown-icon fas fa-chevron-down"></i>
+                        </div>
+
+                        <div class="header__dropdown-content">
+                            <a class="header__dropdown__item" href="#">Nhà hàng Biển Nam</a>
+                            <a class="header__dropdown__item header__dropdown__item_selected" href="#">Nhà hàng Biển Đông</a>
+                            <a class="header__dropdown__item" href="#">Nhà hàng Biển Bắc</a>
+                        </div>                     
+                    </div>
+                    <div class="header__infouser">
+                        <div class="header__inforuser-name">
+                            <a class="header__inforuser-name__link">
+                                <img src="../Resource/icon/avatar-default.png" alt="" class="header__inforuser-name__avatar">
+                            </a>
+                            <span>Nguyen Van ABC</span>
+                        </div>
+                        <div class="header__inforuser-option">
+                            <img src="../Resource/icon/option.png" alt="" class="header__inforuser-option-icon">
+                            <div class="header__inforuser-option-content">
+                                <a href="" class="header__inforuser-option-content__item">Chi tiết tài khoản </a>
+                                <a href="" class="header__inforuser-option-content__item">Thông báo</a>
+                                <a href="" class="header__inforuser-option-content__item">Sửa thông tin</a>
+                                <a href="" class="header__inforuser-option-content__item">Đăng xuất</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </header>
+                <div class="content">
+                    <div class="title">
+                        <div class="title__name">Danh sách nhân viên</div>
+                        <button id="btnAdd" class="title__btn">
+                            <img src="../Resource/icon/add.png" alt="" class="title__btn-img">
+                            <div>Thêm nhân viên</div>
+                        </button>
+                    </div>
+                    <div class="search">
+                        <div class="search__left">
+                            <div class="search__left__search search__left-format">
+                                <img src="../Resource/icon/search.png" alt="">
+                                <input type="text" placeholder="Tìm kiếm theo mã, Tên hoặc Số điện thoại">
+                            </div>
+                            <div class="combobox combobox-search search__left__department search__left-format">
+                                <button class="combobox__top search__left-format__current">
+                                    <input class="departmentName" fieldName="DepartmentName" fieldId="DepartmentId" valueId="">
+                                    <i class="fas fa-chevron-down"></i>
+                                </button>
+                                <div class="department combobox__content search__left-format__content">
+                                    <!-- <div valueId="" class="combobox__content__current result_select">
+                                        <i class="fas fa-check"></i>
+                                        <span></span>
+                                    </div>
+                                    <div valueId="">
+                                        <i class="fas fa-check"></i>
+                                        <span></span>
+                                    </div>
+                                    <div valueId="">
+                                        <i class="fas fa-check"></i>
+                                        <span></span>
+                                    </div> -->
+                                </div>
+                            </div>
+                            <div class="combobox combobox-search search__left__position search__left-format">
+                                <button class="combobox__top search__left-format__current">
+                                    <input class="positionName" fieldName="positionName" fieldId="PositionId" valueId="">
+                                    <i class="fas fa-chevron-down"></i>
+                                </button>
+                                <div class="position combobox__content search__left-format__content">
+                                    <!-- <div valueId="" class="combobox__content__current">
+                                        <i class="fas fa-check"></i>
+                                        <span></span>
+                                    </div>
+                                    <div valueId="">
+                                        <i class="fas fa-check"></i>
+                                        <span></span>
+                                    </div>
+                                    <div valueId="">
+                                        <i class="fas fa-check"></i>
+                                        <span></span>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="search__right">
+                            <button id="btnRemove" class="search__right-btn">
+                                <i class="far fa-trash-alt"></i>
+                            </button>
+                            <button id="btnRefresh" class="search__right-btn">
+                                <img src="../Resource/icon/refresh.png" alt="" class="search__right-btn__img">
+                            </button>
+                        </div>
+                    </div>
+                    <div class="contentdetail">
+                        <table class="contentdetail-table" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <!-- <th></th>
+                                    <th>#</th> -->
+                                    <th fieldName="EmployeeCode" formatType="">Mã nhân viên</th>
+                                    <th fieldName="FullName" formatType="">Họ và tên</th>
+                                    <th fieldName="GenderName" formatType="Gender">Giới tính</th>
+                                    <th fieldName="DateOfBirth" formatType="ddmmyyyy">Ngày sinh</th>
+                                    <th fieldName="PhoneNumber" formatType="">Số điện thoại</th>
+                                    <th fieldName="Email" formatType="">Email</th>
+                                    <th fieldName="PositionName" formatType="">Vị trí</th>
+                                    <th fieldName="DepartmentName" formatType="">Phòng ban</th>
+                                    <th fieldName="Salary" formatType="Money">Tiền lương</th>
+                                    <th fieldName="Address" formatType="">Địa chỉ</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- <tr class="remove">
+                                    <td>
+                                        <input type="checkbox">
+                                    </td>
+                                    <td title:>1</td>
+                                    <td title:>NV000001</td>
+                                    <td title:>Nguyễn Văn ABC</td>
+                                    <td title:>Nam</td>
+                                    <td title:>01/01/2000</td>
+                                    <td title:>012345678</td>
+                                    <td title:>thanhnguyen340034@gmail.com</td>
+                                    <td title:>Giám đốc</td>
+                                    <td title:>Phòng ban</td>
+                                    <td title:>14.000.000</td>
+                                    <td title:>Phương Liêt, Thanh Xuân, Hà Nội Phương Liêt, Thanh Xuân, Hà Nội Phương Liêt, Thanh Xuân, Hà Nội</td>
+                                </tr>
+                                <tr class="remove">
+                                    <td>
+                                        <input type="checkbox">
+                                    </td>
+                                    <td title:>1</td>
+                                    <td title:>NV000001</td>
+                                    <td title:>Nguyễn Văn ABC</td>
+                                    <td title:>Nam</td>
+                                    <td title:>01/01/2000</td>
+                                    <td title:>012345678</td>
+                                    <td title:>thanhnguyen340034@gmail.com</td>
+                                    <td title:>Giám đốc</td>
+                                    <td title:>Phòng ban</td>
+                                    <td title:>14.000.000</td>
+                                    <td title:>Phương Liêt, Thanh Xuân, Hà Nội Phương Liêt, Thanh Xuân, Hà Nội Phương Liêt, Thanh Xuân, Hà Nội</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <input type="checkbox">
+                                    </td>
+                                    <td title:>1</td>
+                                    <td title:>NV000001</td>
+                                    <td title:>Nguyễn Văn ABC</td>
+             0                       <td title:>Nam</td>
+                                    <td title:>01/01/2000</td>
+                                    <td title:>012345678</td>
+                                    <td title:>thanhnguyen340034@gmail.com</td>
+                                    <td title:>Giám đốc</td>
+                                    <td title:>Phòng ban</td>
+                                    <td title:>14.000.000</td>
+                                    <td title:>Phương Liêt, Thanh Xuân, Hà Nội Phương Liêt, Thanh Xuân, Hà Nội Phương Liêt, Thanh Xuân, Hà Nội</td>
+                                </tr> -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <footer class="footer">
+                    <div class="footer__display">
+                        Hiển thị 
+                        <span>1-10/1000</span>
+                        nhân viên
+                    </div>
+                    <div class="footer__pagination">
+                        <img src="../Resource/icon/btn-firstpage.svg" alt="" class="footer__pagination__btn">
+                        <img src="../Resource/icon/btn-prev-page.svg" alt="" class="footer__pagination__btn">
+                        <div class="footer__pagination__number">
+                            <a href="" class="footer__pagination__number-current">1</a>
+                            <a href="">2</a>
+                            <a href="">3</a>
+                            <a href="">4</a>
+                            <a href="">5</a>
+                        </div>
+                        <img src="../Resource/icon/btn-next-page.svg" alt="" class="footer__pagination__btn">
+                        <img src="../Resource/icon/btn-lastpage.svg" alt="" class="footer__pagination__btn">
+                    </div>
+                    <div class="footer__displayonce">
+                        <span>10</span> nhân viên/trang
+                    </div>
+                </footer>
+            </div>
+        </div>
+        
+        <div class="modal"> 
+            <div class="modal__overlay">
+    
+            </div>
+            <div class="modal__content">
+                <div class="modal__content-header">
+                    <div id="iconCancel" class="modal__content-header__cancel">
+                        <i class="fas fa-times"></i>
+                    </div>
+                    <div class="modal__content-header__title">Thông tin nhân viên</div>
+                </div>
+                <div class="modal__content-body">
+                    <div class="left">
+                        <div class="left__avatar">
+                            <img src="../Resource/img/default-avatar.jpg" alt="" class="left__avatar-img">
+                            <span>(Vui lòng chọn ảnh có định dạng .jpg, .jpeg, .png, .gif)</span>
+                        </div>
+                    </div>
+                    <div class="right">
+                        <div class="right__block right__informationgeneral">
+                            <div class="right__block-title">
+                                A. THÔNG TIN CHUNG
+                                <div class="right__block-title-underline"></div>
+                            </div>
+                            <div class="right__block-detail">
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">
+                                        Mã nhân viên
+                                        <span>(</span>
+                                        <span class="required">*</span>
+                                        <span>)</span>
+                                    </label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="employeeCode" fieldName="EmployeeCode" name="label" type="text" class="right__block-detail-item__content--text" readonly required>
+                                    </div>
+                                    <div class="right__block-detail-item__auto">
+                                        Trường này được thêm tự động
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">
+                                        Họ và tên
+                                        <span>(</span>
+                                        <span class="required">*</span>
+                                        <span>)</span>
+                                    </label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="fullName" fieldName="FullName" type="text" class="right__block-detail-item__content--text auto_focus" required>
+                                    </div>
+                                    <div class="right__block-detail-item__empty">
+                                        Trường này không được để trống
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Ngày sinh</label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="dateOfBirth" fieldName="DateOfBirth" name="label" type="date" class="right__block-detail-item__content--date">
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Giới tính</label>
+                                    <div class="combobox combobox-form">
+                                        <button class="combobox__top right__block-detail-item__dropdown_btn">
+                                            <input id="gender" fieldName="Gender" valueId="1">
+                                            <i class="fas fa-chevron-down"></i>
+                                        </button>
+                                        <div class="combobox__content right__block-detail-item__dropdown_content">
+                                            <div valueId="1" class="combobox__content__current">
+                                                <i class="fas fa-check"></i>
+                                                <span>Nam</span>
+                                            </div>
+                                            <div valueId="0">
+                                                <i class="fas fa-check"></i>
+                                                <span>Nữ</span>
+                                            </div>
+                                            <div valueId="2">
+                                                <i class="fas fa-check"></i>
+                                                <span>Khác</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">
+                                        Số CMTND/Căn cước
+                                        <span>(</span>
+                                        <span class="required">*</span>
+                                        <span>)</span>
+                                    </label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="identityNumber" fieldName="IdentityNumber" type="text" class="right__block-detail-item__content--text text_only_number" required>
+                                    </div>
+                                    <div class="right__block-detail-item__error">
+                                        Số căn cước không hợp lệ
+                                    </div>
+                                    <div class="right__block-detail-item__empty">
+                                        Trường này không được để trống
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Ngày cấp</label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="identityDate" fieldName="IdentityDate" name="label" type="date" class="right__block-detail-item__content--date">
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Nơi cấp</label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="identityPlace" fieldName="IdentityPlace" type="text" class="right__block-detail-item__content--text">
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <!-- <label for="label" class="right__block-detail-item__label">
+                                        Email
+                                        <span>(</span>
+                                        <span class="required">*</span>
+                                        <span>)</span>
+                                    </label>
+                                    <div class="right__block-detail-item__content">
+                                        <input type="text" class="right__block-detail-item__content--text">
+                                    </div> -->
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">
+                                        Email
+                                        <span>(</span>
+                                        <span class="required">*</span>
+                                        <span>)</span>
+                                    </label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="email" fieldName="Email" type="email" placeholder="example@donmain.com" class="right__block-detail-item__content--text" required>
+                                    </div>
+                                    <div class="right__block-detail-item__error">
+                                        Email không hợp lệ
+                                    </div>
+                                    <div class="right__block-detail-item__empty">
+                                        Trường này không được để trống
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">
+                                        Số điện thoại
+                                        <span>(</span>
+                                        <span class="required">*</span>
+                                        <span>)</span>
+                                    </label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="phoneNumber" fieldName="PhoneNumber" type="text" class="right__block-detail-item__content--text text_only_number" required>
+                                    </div>
+                                    <div class="right__block-detail-item__error">
+                                        Số điện thoại không hợp lệ
+                                    </div>
+                                    <div class="right__block-detail-item__empty">
+                                        Trường này không được để trống
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="right__block right__informationjob">
+                            <div class="right__block-title">
+                                B. THÔNG TIN CÔNG VIỆC  
+                                <div class="right__block-title-underline"></div>
+                            </div>
+                            <div class="right__block-detail">
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Vị trí</label>
+                                    <div class="combobox combobox-form">
+                                        <button class="combobox__top right__block-detail-item__dropdown_btn">
+                                            <input class="positionName" fieldName="positionName" fieldId="PositionId" valueId="">
+                                            <i class="fas fa-chevron-down"></i>
+                                        </button>
+                                        <div class="position combobox__content right__block-detail-item__dropdown_content">
+                                            <div valueId="" class="combobox__content__current">
+                                                <i class="fas fa-check"></i>
+                                                <span></span>
+                                            </div>
+                                            <div valueId="">
+                                                <i class="fas fa-check"></i>
+                                                <span></span>
+                                            </div>
+                                            <div valueId="">
+                                                <i class="fas fa-check"></i>
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Phòng ban</label>
+                                    <div class="combobox combobox-form">
+                                        <button class="combobox__top right__block-detail-item__dropdown_btn">
+                                            <input class="departmentName" fieldName="DepartmentName" fieldId="DepartmentId" valueId="">
+                                            <i class="fas fa-chevron-down"></i>
+                                        </button>
+                                        <div class="department combobox__content right__block-detail-item__dropdown_content">
+                                            <div valueId="" class="combobox__content__current">
+                                                <i class="fas fa-check"></i>
+                                                <span></span>
+                                            </div>
+                                            <div valueId="">
+                                                <i class="fas fa-check"></i>
+                                                <span></span>
+                                            </div>
+                                            <div valueId="">
+                                                <i class="fas fa-check"></i>
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Mã số thuế cá nhân</label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="personalTaxCode" fieldName="PersonalTaxCode" type="text" value="" class="right__block-detail-item__content--text text_only_number">
+                                    </div>
+                                    <div class="right__block-detail-item__error">
+                                        Mã số thuế không hợp lệ
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Mức lương cơ bản</label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="salary" fieldName="Salary" pattern="/^-?\d+\.?\d*$/" onKeyPress="if(this.value.length==20) return false;" type="number" class="right__block-detail-item__content--text">
+                                    </div>
+                                    <div class="right__block-detail-item__content--salary">(vnđ)</div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Ngày gia nhập công ty</label>
+                                    <div class="right__block-detail-item__content">
+                                        <input id="joinDate" fieldName="JoinDate" name="label" type="date" class="right__block-detail-item__content--date">
+                                    </div>
+                                </div>
+                                <div class="right__block-detail-item">
+                                    <label for="label" class="right__block-detail-item__label">Tình trạng công việc</label>
+                                    <div class="combobox combobox-form">
+                                        <button class="combobox__top right__block-detail-item__dropdown_btn">
+                                            <input id="workStatus" fieldName="WorkStatus" valueId="0">
+                                            <i class="fas fa-chevron-down"></i>
+                                        </button>
+                                        <div class="combobox__content right__block-detail-item__dropdown_content">
+                                            <div valueId="0" class="combobox__content__current">
+                                                <i class="fas fa-check"></i>
+                                                <span>Đang làm việc</span>
+                                            </div>
+                                            <div valueId="1">
+                                                <i class="fas fa-check"></i>
+                                                <span>Đã nghỉ</span>
+                                            </div>
+                                            <div valueId="2">
+                                                <i class="fas fa-check"></i>
+                                                <span>Khác</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal__footer">
+                    <button id="btnCancel" class="modal__footer__cancel modal__footer-btn">Hủy</button>
+                    <button id="btnSave" class="modal__footer__save modal__footer-btn">
+                        <i class="far fa-save"></i>
+                        Lưu
+                    </button>
+                </div>
+            </div>      
+        </div> 
+    
+        <div id="popup">
+            <!-- <div class="popup">
+                <div class="popup__title">
+                    Nội dung cảnh báo
+                </div>
+                <div class="popup__content">
+                    <div class="popup__content__icon">
+                        <i style="color: red" class="fas fa-exclamation-triangle"></i>
+                    </div>
+                    <div class="popup__content__text">Nội dung cảnh báo Nội dung cảnh báo Nội dung cảnh báo Nội dung cảnh báo Nội dung cảnh báo</div>
+                </div>
+                <div class="popup__footer">
+                    <button class="popup__footer__cont">Tiếp tục nhập</button>
+                    <button style="background-color: green" class="popup__footer__cancel">Đóng</button>
+                </div>
+            </div> -->
+        </div>
+    
+        <div id="toast_top">
+            <!-- <div class="toast_top__title">
+                Nội dung thông báo
+            </div>
+            <div class="toast_top__content">
+                Nội dung thông báo<br>Kiểm tra lại kết nối của bạn<br>Hoặc liên hệ với quản trị viên hệ thống
+            </div>
+            <div class="toast_top__footer">
+                <button class="toast_top__footer">Đóng</button>
+            </div> -->
+        </div>
+    
+        <div id="toast_right">
+            <!-- <div class="toast_right toast_right--success">
+                <div class="toast_right-wrap">
+                    <div class="toast_right__icon">
+                        <i class="fas fa-exclamation-triangle"></i>
+                        <i class="fas fa-check-circle"></i>
+                        <i class="fas fa-exclamation-circle"></i>
+                    </div>
+                    <div class="toast_right__content">
+                        Thêm nhân viên mã MF90921 thành công
+                    </div>
+                </div>
+                <div class="toast_right__icon toast_right__icon_close">
+                    <i class="fas fa-times"></i>
+                </div>
+            </div> -->
+        </div>
+    </div>
+
+
+    <script src="../lib/jquery-3.6.0.min.js"></script>
+    <!-- <script src="../lib/jquery-ui.min.js"></script> -->
+    <script src="../js/common/common.js"></script>
+    <script src="../js/common/base.js"></script>
+    <script src="../js/page/employee.js"></script>
+</body>
+</html>

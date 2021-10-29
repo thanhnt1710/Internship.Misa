@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="40" viewBox="0 0 16 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21224" data-name="Rectangle 21224" width="16" height="40" transform="translate(328.5 328)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.24"/>
+    </clipPath>
+  </defs>
+  <g id="ic-_Cup_DS" data-name="ic- Cup DS" transform="translate(-328.5 -328)" clip-path="url(#clip-path)">
+    <g id="Group_42389" data-name="Group 42389" transform="translate(35.5 -28)">
+      <g id="Rectangle_18097" data-name="Rectangle 18097" transform="translate(294.5 357)" fill="#0fa655" stroke="#e4e6f1" stroke-width="1">
+        <path d="M4,0h9a0,0,0,0,1,0,0V39a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+        <path d="M4,.5h8a.5.5,0,0,1,.5.5V38a.5.5,0,0,1-.5.5H4A3.5,3.5,0,0,1,.5,35V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+      </g>
+      <path id="Path_70808" data-name="Path 70808" d="M0,0,4,4,0,8" transform="translate(302.445 380.5) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

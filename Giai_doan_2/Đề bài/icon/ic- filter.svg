@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21572" data-name="Rectangle 21572" width="16" height="16" transform="translate(632.5 240.4)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.4"/>
+    </clipPath>
+  </defs>
+  <g id="ic-_filter" data-name="ic- filter" transform="translate(-632.5 -240.4)" clip-path="url(#clip-path)">
+    <path id="Path_95635" data-name="Path 95635" d="M463.761,395.008a.966.966,0,0,0-.892-.6h-10.11a.856.856,0,0,0-.842.532.838.838,0,0,0,.184,1.016l3.792,3.8v3.7a.922.922,0,0,0,.255.647l2.019,2.016a.838.838,0,0,0,.628.287h.019a1,1,0,0,0,.346-.067.869.869,0,0,0,.556-.845v-5.739l3.781-3.79A.84.84,0,0,0,463.761,395.008Zm-.809.386-4.024,4.036V405a3.768,3.768,0,0,1,0,.64v.147l-.188-.211-2.027-2.024a.129.129,0,0,1-.033-.092v-4.033l-4.023-4.034-.006-.128-.014-.011a.092.092,0,0,1,.1-.055h10.153a.091.091,0,0,1,.086.057l.01.027A.091.091,0,0,1,462.952,395.395Z" transform="translate(182.677 -151.908)" fill="#3d3f4e" stroke="#3d3f4e" stroke-width="0.2"/>
+  </g>
+</svg>

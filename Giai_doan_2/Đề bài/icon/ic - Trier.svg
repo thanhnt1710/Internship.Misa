@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21196" data-name="Rectangle 21196" width="24" height="24" transform="translate(456 472)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.57"/>
+    </clipPath>
+  </defs>
+  <g id="ic_-_Trier" data-name="ic - Trier" transform="translate(-456 -472)" clip-path="url(#clip-path)">
+    <g id="_3596315" data-name="3596315" transform="translate(457.199 474.964)">
+      <g id="Group_44988" data-name="Group 44988" transform="translate(11.439 4.717)">
+        <path id="Path_95253" data-name="Path 95253" d="M17.6,17.366H13.46a.519.519,0,0,1,0-1.03H17.6a4.906,4.906,0,0,0,4.6-5.152A4.906,4.906,0,0,0,17.6,6.03H14.4A.519.519,0,0,1,14.4,5h3.2c3.045,0,5.522,2.773,5.522,6.183S20.647,17.366,17.6,17.366Z" transform="translate(-13 -5)" fill="#0fa655" stroke="#0fa655" stroke-width="0.5"/>
+      </g>
+      <g id="Group_44989" data-name="Group 44989" transform="translate(0 16.139)">
+        <path id="Path_95254" data-name="Path 95254" d="M8.974,16.945H.472a.472.472,0,0,1,0-.945h8.5a.472.472,0,1,1,0,.945Z" transform="translate(0 -16)" fill="#0fa655" stroke="#0fa655" stroke-width="0.5"/>
+      </g>
+      <g id="Group_44990" data-name="Group 44990" transform="translate(0 5.037)">
+        <path id="Path_95255" data-name="Path 95255" d="M8.974,5.945H.472A.472.472,0,1,1,.472,5h8.5a.472.472,0,1,1,0,.945Z" transform="translate(0 -5)" fill="#0fa655" stroke="#0fa655" stroke-width="0.5"/>
+      </g>
+      <g id="Group_44991" data-name="Group 44991" transform="translate(0 10.588)">
+        <path id="Path_95256" data-name="Path 95256" d="M8.974,11.445H.472a.472.472,0,1,1,0-.945h8.5a.472.472,0,1,1,0,.945Z" transform="translate(0 -10.5)" fill="#0fa655" stroke="#0fa655" stroke-width="0.5"/>
+      </g>
+      <g id="Group_44992" data-name="Group 44992" transform="translate(11.521 1.001)">
+        <path id="Path_95257" data-name="Path 95257" d="M17.251,9.5a.474.474,0,0,1-.334-.138L13.138,5.585a.473.473,0,0,1,0-.668l3.778-3.778a.472.472,0,0,1,.668.668L14.14,5.251l3.444,3.444a.473.473,0,0,1,0,.668A.468.468,0,0,1,17.251,9.5Z" transform="translate(-13 -1.001)" fill="#0fa655" stroke="#0fa655" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

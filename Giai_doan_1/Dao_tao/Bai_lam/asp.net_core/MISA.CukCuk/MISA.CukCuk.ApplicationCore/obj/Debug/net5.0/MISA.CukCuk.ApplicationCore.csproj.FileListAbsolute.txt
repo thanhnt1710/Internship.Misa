@@ -1,0 +1,15 @@
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.CukCuk.ApplicationCore.csprojAssemblyReference.cache
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.CukCuk.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.CukCuk.ApplicationCore.AssemblyInfoInputs.cache
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.CukCuk.ApplicationCore.AssemblyInfo.cs
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\MISA.CukCuk.ApplicationCore.deps.json
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\MISA.CukCuk.ApplicationCore.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\ref\MISA.CukCuk.ApplicationCore.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\MISA.CukCuk.ApplicationCore.pdb
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.CukCuk.ApplicationCore.csproj.CoreCompileInputs.cache
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.CukCuk.ApplicationCore.csproj.CopyComplete
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.CukCuk.ApplicationCore.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\ref\MISA.CukCuk.ApplicationCore.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.CukCuk.ApplicationCore.pdb
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\MISA.CukCuk.DataAccess.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\MISA.CukCuk.DataAccess.pdb

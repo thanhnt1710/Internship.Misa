@@ -1,0 +1,14 @@
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\MISA.Amis.Business.deps.json
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\MISA.Amis.Business.dll
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\ref\MISA.Amis.Business.dll
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\MISA.Amis.Business.pdb
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.Amis.Business.csproj.AssemblyReference.cache
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.Amis.Business.Properties.Resources.resources
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.Amis.Business.csproj.GenerateResource.cache
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.Amis.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.Amis.Business.AssemblyInfoInputs.cache
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.Amis.Business.AssemblyInfo.cs
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.Amis.Business.csproj.CoreCompileInputs.cache
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.Amis.Business.dll
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\ref\MISA.Amis.Business.dll
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\MISA.Amis.Business.pdb

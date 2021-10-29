@@ -1,0 +1,343 @@
+.main {
+    position: relative;
+}
+
+.content {
+
+}
+
+.title {
+    display: flex;
+    justify-content:  space-between;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.title-name {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.title-btn {
+    display: flex;
+    align-items: center;
+    border: none;
+    background-color: var(--default-color);
+    border-radius: 4px;
+    height: 40px;
+    padding: 0 16px;
+}
+
+.title-btn:hover {
+    background-color: var(--hover-color);
+    cursor: pointer;
+}
+
+.title-btn div {
+    font-size: 1.3rem;
+    color: var(--white-color);
+}
+
+.title-btn-img {
+    margin-right: 8px;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.search-left {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    height: 100%;
+}
+
+.search-left-format {
+    position: relative;
+    border: var(--border);
+    border-radius: 4px;
+    box-shadow: var(--box-shadow);
+    font-size: 1.4rem;
+    outline: none;
+    cursor: pointer;
+    margin: 0;
+}
+
+.combobox-search {
+    width: 24%;
+}
+
+.search-left-search {
+    flex-basis: 50%;
+    display: flex;
+}
+
+.search-left-search img {
+    width: 16px;
+    margin: auto 8px auto 16px;
+    cursor: pointer;
+}
+
+.search-left-search input {
+    width: 90%;
+    height: 100%;
+    outline: none;
+    border: none;
+    font-size: 1.3rem;
+    color: var(--text-color);
+    border-radius: inherit;
+}
+
+.search-left-format-current {
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+    border: none;
+    font-size: 1.3rem;
+    color: var(--black-color);
+    padding: 0;
+}
+
+.search-left-format-current:hover {
+    
+}
+
+.search-left-format-current input {
+    /* position: relative;
+    width: 84%;
+    height: 100%;
+    top: 0px;
+    left: 0; */
+    padding-left: 10px;
+    /* outline: none;
+    border: none;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px; */
+    /* background-color: rebeccapurple; */
+}
+
+.search-left-format-current input:hover {
+    background-color: #E9EBEE ;
+}
+
+.search-left-format-current i {
+    top: 0;
+    left: 0;
+    font-size: 1.4rem;
+    padding: 12px 0;
+    width: 20%;
+    height: 100%;
+}
+
+.search-left-format-current i::after {
+    position: absolute;
+    content: "";
+    top: 0px;
+    left: -0.5px;
+    height: 100%;
+    border-left: var(--border);
+}
+
+.search-left-format-content {
+    left: -1px;
+    top: 42px;
+    width: 101%;
+    border: none !important;
+}
+
+.search-left-format-content div {
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+    color: var(--black-color);
+    padding: 12px 14px;
+    height: 40px;
+    border: var(--border);
+    margin: auto;
+}
+
+#btnRemove {
+    position: relative;
+    top: -4px;
+    margin-right: 10px;
+}
+
+.search-right-btn {
+    background-color: var(--white-color);
+    border: var(--border);
+    height: 38px;
+    width: 38px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.search-right-btn:hover {
+    background-color: #bbbbbb;
+}
+
+.search-right-btn-img {
+    
+}
+
+/* Table */
+.contentdetail {
+    margin-top: 20px;
+    height: calc(100vh - 256px);
+    overflow: scroll;
+}
+
+.contentdetail::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    background-color: #F5F5F5;
+    /* margin-top: 30px; */
+}
+
+.contentdetail::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #454545;
+    /* margin-top: 30px; */
+}
+
+.contentdetail::-webkit-scrollbar-track {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #F5F5F5;
+    margin-top: 36px;
+}
+
+.contentdetail-table {
+    width: 100%;
+    font-size: 1.4rem;
+    color: var(--textbody-color);
+}
+
+.contentdetail tr {
+    animation: fadeIn linear .8s;
+}
+
+.contentdetail tr.remove {
+    background-color: var(--primary-color) !important;
+    color: var(--white-color);
+}
+
+.contentdetail tr.remove:hover {
+    background-color: var(--primary-color) !important;
+}
+
+.contentdetail-table th, td {
+    border-bottom: var(--border);
+    padding: 10px 16px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: default;
+}
+
+.contentdetail-table td {
+    display: table-cell;
+    vertical-align: inherit;
+    max-width: 200px;
+    overflow: hidden;
+}
+
+.contentdetail-table thead tr {
+    position: sticky;
+    top: 0;
+}
+
+.contentdetail-table thead tr:hover {
+    background-color: var(--white-color) !important;
+}
+
+.contentdetail-table thead tr:nth-child(1) {
+    background-color: var(--white-color);
+}
+
+.contentdetail-table tr:hover {
+    background-color: #EBF9F4 !important;
+}
+
+.contentdetail-table tr:nth-child(odd) {
+    background-color:#eee;
+}
+
+.contentdetail-table tr:nth-child(even) {
+    background-color:white;
+}
+
+/* Footer */
+.footer {
+    position: absolute;
+    bottom: 10px;
+    width: 97.5%;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.3rem;
+    align-items: center;
+    color: var(--text-color);
+}
+
+.footer-display {
+
+}
+
+.footer-pagination {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-pagination-btn {
+    cursor: pointer;
+}
+
+.footer-pagination-btn:first-child {
+    margin: 0 18px;
+}
+
+.footer-pagination-btn:last-child {
+    margin: 0 18px;
+}
+
+.footer-pagination-number {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-pagination-number a {
+    display: block;
+    color: var(--text-color);
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    margin: 0 10px;
+    padding-top: 6px;
+    text-decoration: none;
+    border: var(--border);
+    border-radius: 180%;
+}
+
+.footer-pagination-number-current {
+    color: var(--white-color) !important;
+    background-color:var(--hover-color);
+}
+
+.footer-pagination-number-current:hover {
+    background-color:var(--hover-color) !important;
+}
+
+.footer-pagination-number a:hover {
+    color: var(--white-color);
+    background-color:#bbbbbb;
+}
+.footer-displayonce {
+
+}

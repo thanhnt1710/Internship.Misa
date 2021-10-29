@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20842" data-name="Rectangle 20842" width="16" height="16" transform="translate(424 128)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="ic_zoom" transform="translate(-424 -128)" clip-path="url(#clip-path)">
+    <g id="Group_30274" data-name="Group 30274" transform="translate(-36 -2887)">
+      <circle id="Ellipse_58" data-name="Ellipse 58" cx="8" cy="8" r="8" transform="translate(460 3015)" fill="#0fa655"/>
+      <g id="Group_44132" data-name="Group 44132" transform="translate(-38.962 2328.622) rotate(45)">
+        <line id="Line_6269" data-name="Line 6269" y2="4.287" transform="translate(849.528 133.625)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+        <path id="Path_84529" data-name="Path 84529" d="M11597.927-603.347l2.334,2.335,2.336-2.335" transform="translate(-10750.734 739.303)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_6270" data-name="Line 6270" y2="4.287" transform="translate(849.527 131.291) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+        <path id="Path_84530" data-name="Path 84530" d="M11597.927-603.347l2.334,2.335,2.336-2.335" transform="translate(12449.788 -474.387) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,191 @@
+:root {
+	--white-color: #ffffff;
+	--text-color: #111;
+	--textbody-color: #454545; 
+	--label-color: #454545;
+	--hint-color: #bbbbbb;
+	--primary-color: #01B075;
+	--hover-color: #35bf22;
+	--default-color: #2ca01c;
+	--focus-color: #EBF9F4;
+	--border: 1px solid #e5e5e5;
+	--box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+* {
+	box-sizing: inherit;
+	margin: 0;
+}
+
+html{
+	font-size: 62.5%;
+	line-height: 1.6rem;
+	font-family: notosans-regular;
+	box-sizing: border-box;
+}
+
+body{ 
+	overflow: hidden;
+	position: relative;
+	background-color: #bbbbbb;
+	/* khong boi den */
+	/* -webkit-user-select:none;
+	-khtml-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none  */
+}
+
+.app {
+	background-color: var(--white-color);
+	overflow: hidden;
+}
+
+/* Phông chữ */
+@font-face {
+	font-family: 'notosans-bold';
+	src: url('../../assets/fonts/notosans-bold.3ede5aff.woff2');
+}
+
+@font-face {
+	font-family: 'notosans-italic';
+	src: url('../../assets/fonts/notosans-italic.1c1aaac9.woff2');
+}
+
+@font-face {
+	font-family: 'notosans-regular';
+	src: url('../../assets/fonts/notosans-regular.2cb88a13.woff2');
+}
+
+@font-face {
+	font-family: 'notosans-semibold';
+	src: url('../../assets/fonts/notosans-semibold.df3e6dc4.woff2');
+}
+
+/* css chung ảnh dùng trong file svg */
+.svg-img {
+	background: url(../../assets/img/Sprites.64af8f61.svg) no-repeat;
+}
+
+.svg-img-24 {
+	width: 24px;
+    height: 24px;
+    min-width: 24px;
+    min-height: 24px;
+}
+
+.svg-img-16 {
+	width: 16px;
+    height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+}
+
+.svg-img-48 {
+	width: 48px;
+    height: 48px;
+    min-width: 48px;
+    min-height: 48px;
+}
+
+/* input-checkbox */
+input[type=checkbox] {
+	position: relative;
+	cursor: pointer;
+	width: 10px;
+}
+
+input[type=checkbox]:before {
+	content: "";
+	display: block;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	top: 0;
+	left: 0;
+	background-color:#BBBBBB ;
+	border-radius: 4px;
+}
+
+input[type=checkbox]:checked:before {
+	content: "";
+	display: block;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	top: 0;
+	left: 0;
+	background-color: var(--default-color);
+	border-radius: 4px;
+}
+
+input[type=checkbox]:checked:after {
+	content: "";
+	display: block;
+	width: 4px;
+	height: 8px;
+	border: solid white;
+	border-width: 0 2px 2px 0;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+	position: absolute;
+	top: 2px;
+	left: 6px;
+}
+/* placeholder */
+::placeholder {
+    color: var(--hint-color); 
+    font-size: 1.2rem;
+	font-style: italic;
+}
+
+/* Animation */
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+/* Responsive */
+.grid {
+	width: 1366px;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.grid-fullwidth {
+	width: 100%;
+} 
+
+.grid-row {
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: -12px;
+	margin-right: -12px;
+}
+
+.grid-column-left {
+	/* padding-left: 12px; */
+	/* padding-right: 12px; */
+	width: 180px;
+}
+
+.grid-column-right {
+	/* padding-left: 12px;
+	padding-right: 12px; */
+	width: calc(100% - 180px);
+}
+
+/* Contaiter */
+.container {
+	padding: 0 10px;
+}
+
+/* Main */
+.main {
+	transition: width linear 1s;
+}

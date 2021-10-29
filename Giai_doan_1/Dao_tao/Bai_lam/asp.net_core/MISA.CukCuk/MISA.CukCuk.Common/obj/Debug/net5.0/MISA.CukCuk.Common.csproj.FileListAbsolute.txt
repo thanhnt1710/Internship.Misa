@@ -1,0 +1,14 @@
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\bin\Debug\net5.0\MISA.CukCuk.Common.deps.json
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\bin\Debug\net5.0\MISA.CukCuk.Common.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\bin\Debug\net5.0\ref\MISA.CukCuk.Common.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\bin\Debug\net5.0\MISA.CukCuk.Common.pdb
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\MISA.CukCuk.Common.csprojAssemblyReference.cache
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\MISA.CukCuk.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\MISA.CukCuk.Common.AssemblyInfoInputs.cache
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\MISA.CukCuk.Common.AssemblyInfo.cs
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\MISA.CukCuk.Common.csproj.CoreCompileInputs.cache
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\MISA.CukCuk.Common.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\ref\MISA.CukCuk.Common.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\MISA.CukCuk.Common.pdb
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\MISA.CukCuk.Common.Properties.Resources.resources
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Common\obj\Debug\net5.0\MISA.CukCuk.Common.csproj.GenerateResource.cache

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20972" data-name="Rectangle 20972" width="40" height="40" transform="translate(1024 424)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.43"/>
+    </clipPath>
+  </defs>
+  <g id="ic-ThanhCong" transform="translate(-1024 -424)" clip-path="url(#clip-path)">
+    <g id="ic_ToastMessage_Success" transform="translate(-502 -2136.5)">
+      <circle id="Ellipse_69" data-name="Ellipse 69" cx="16.112" cy="16.112" r="16.112" transform="translate(1531.775 2566.748)" fill="#0fa655" opacity="0.2"/>
+      <g id="Ellipse_68" data-name="Ellipse 68" transform="translate(1528 2562)" fill="none" stroke="#0fa655" stroke-width="2">
+        <circle cx="16.813" cy="16.813" r="16.813" stroke="none"/>
+        <circle cx="16.813" cy="16.813" r="15.813" fill="none"/>
+      </g>
+      <path id="Path_59365" data-name="Path 59365" d="M1541.381,2582.58l5.826,5.827,11.488-11.488" transform="translate(-5.408 -3.066)" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

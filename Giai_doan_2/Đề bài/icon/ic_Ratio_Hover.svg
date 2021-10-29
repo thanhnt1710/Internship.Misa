@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21579" data-name="Rectangle 21579" width="24" height="24" transform="translate(536 280)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="ic_Ratio_Hover" transform="translate(-536 -280)" clip-path="url(#clip-path)">
+    <g id="ic_Ratio_Active" transform="translate(539 283)">
+      <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#0fa655" stroke-width="1">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="8.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

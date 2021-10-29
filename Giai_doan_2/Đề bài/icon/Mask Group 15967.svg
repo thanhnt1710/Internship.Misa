@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21640" data-name="Rectangle 21640" width="24" height="24" transform="translate(549 260)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="16" height="4" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_15967" data-name="Mask Group 15967" transform="translate(284 -549) rotate(90)" clip-path="url(#clip-path)">
+    <g id="Repeat_Grid_550" data-name="Repeat Grid 550" transform="translate(553 270)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-1216 -115)">
+        <g id="Ellipse_5631" data-name="Ellipse 5631" transform="translate(1216 115)" fill="none" stroke="#3d3f4e" stroke-width="1">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1210 -115)">
+        <g id="Ellipse_5632" data-name="Ellipse 5632" transform="translate(1216 115)" fill="none" stroke="#3d3f4e" stroke-width="1">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1204 -115)">
+        <g id="Ellipse_5633" data-name="Ellipse 5633" transform="translate(1216 115)" fill="none" stroke="#3d3f4e" stroke-width="1">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

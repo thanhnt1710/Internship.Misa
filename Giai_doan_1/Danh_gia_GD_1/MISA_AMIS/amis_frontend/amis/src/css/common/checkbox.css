@@ -1,0 +1,28 @@
+.checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.checkbox-wrap {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    border: 1px solid #afafaf;
+    cursor: pointer;
+}
+
+.checkbox-icon {
+    width: 18px;
+    height: 18px;
+    background-color: var(--white-color) !important;
+}
+
+.checkbox-selected {
+    border: 1px solid #2ca01c;
+}
+
+.checkbox-selected .checkbox-icon {
+    background-position: -1223px -360px !important;
+}

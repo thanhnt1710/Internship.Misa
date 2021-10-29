@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Misa.ApplicationCore",
+    "\\MISA.CukCuk",
+    "\\MISA.CukCuk.Api",
+    "\\MISA.CukCuk.Api\\Controllers",
+    "\\MISA.CukCuk.ApplicationCore",
+    "\\MISA.CukCuk.ApplicationCore\\Entity",
+    "\\MISA.CukCuk.ApplicationCore\\Service",
+    "\\MISA.CukCuk.Infrastructure"
+  ],
+  "SelectedNode": "\\MISA.CukCuk.Api\\Controllers\\BaseController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,12 @@
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.CukCuk.Infrastructure.deps.json
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.CukCuk.Infrastructure.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\ref\MISA.CukCuk.Infrastructure.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.CukCuk.Infrastructure.pdb
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.csprojAssemblyReference.cache
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.AssemblyInfo.cs
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\ref\MISA.CukCuk.Infrastructure.dll
+E:\20203\Misa_Web_2021_06\MISA.WEB2021_06\mf899-ntthanh\asp.net_core\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.pdb

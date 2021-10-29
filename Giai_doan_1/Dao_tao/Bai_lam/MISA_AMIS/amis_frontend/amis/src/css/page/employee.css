@@ -1,0 +1,346 @@
+/* Chứa toàn bộ phần dưới tiêu đề */
+.main-content {
+    height: 93%;
+    position: relative;
+    background-image: linear-gradient(#ebecee, white);
+    /* overflow: scroll; */
+}
+
+/* Không chứa footer */
+.content {
+
+}
+
+/* Tiêu đề */
+.title {
+    display: flex;
+    justify-content:  space-between;
+    padding: 30px 0 20px 0;
+    margin: 0 30px 0 20px;
+    align-items: center;
+}
+
+.title-name {
+    font-family: notosans-bold;
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+.title-btn {
+    display: flex;
+    align-items: center;
+    border: none;
+    background-color: var(--default-color);
+    border-radius: 4px;
+    height: 40px;
+    padding: 0 16px;
+}
+
+.title-btn:hover {
+    background-color: var(--hover-color);
+    cursor: pointer;
+}
+
+.title-btn div {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--white-color);
+}
+
+/* Wrap content chứa tìm kiếm, table*/
+.wrap-content {
+    position: relative;
+    margin: 0 30px 0 20px;
+    background-color: var(--white-color);
+}
+
+.content-header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 74px;
+}
+
+.search {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 18.5%;
+    height: 32px;
+    border: 1px solid #babec5;
+}
+
+.search input {
+    font-family: notosans-regular;
+    width: 90%;
+    height: 100%;
+    color: var(--text-color);
+    outline: none;
+    border: none;
+    font-size: 1.3rem;
+    padding: 6px 10px;
+    border-radius: 2px;
+}
+
+.search input:focus .search {
+    border: 1px solid var(--default-color) !important;
+}
+
+.search-icon {
+    position: absolute;
+    right: 4px;
+    background-position: -992px -360px !important;
+    cursor: pointer;
+}
+
+.refresh {
+    margin: 0 18px 0 14px;
+    cursor: pointer;
+}
+
+.refresh-icon {
+    background-position: -425px -201px !important;
+}
+
+.refresh-icon:hover {
+    background-position: -1098px -89px !important;
+}
+
+/* Table */
+
+.content-detail {
+    height: calc(100vh - 267px);
+    overflow: auto;
+    width: calc(100% - 20px);
+    /* background-color: var(--white-color); */
+}
+
+.content-detail::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    /* background-color: #F5F5F5; */
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.content-detail::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #454545;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.content-detail::-webkit-scrollbar-track {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #F5F5F5;
+    margin-top: 36px;
+    margin-left: 20px;
+}
+
+.content-detail-table {
+    font-size: 1.4rem;
+    color: var(--textbody-color);
+}
+
+.content-detail-table-overlay {
+    padding: 0 10px !important;
+    position: sticky;
+    left: 0;
+    background-color: var(--white-color) !important;
+    border-bottom: none !important;
+    border-right: none !important;
+}
+
+.content-detail tr {
+    animation: fadeIn linear .8s;
+}
+
+.content-detail-table th, td {
+    padding: 7px 40px 7px 10px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: default;
+    max-width: 300px;
+}
+
+.content-detail-table th {
+    background-color: #eceef1;
+    border-right: 1px solid #c7c7c7;
+    border-bottom: 1px solid #c7c7c7;
+}
+
+/* .content-detail-table td {
+    display: table-cell;
+    vertical-align: inherit;
+    max-width: 300px;
+    min-width: 10px;
+    overflow: hidden;
+} */
+
+.content-detail-table thead tr {
+    z-index: 3;
+    position: sticky;
+    top: 0;
+    height: 34px !important;
+}
+
+.content-detail-table thead tr th {
+    font-family: notosans-bold;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.content-detail-table tbody tr {
+    position: relative;
+}
+
+.content-detail-table tbody tr td {
+    z-index: 1;
+    height: 48px;
+    border-bottom: 1px solid #c7c7c7;
+    border-right: 1px dotted #c7c7c7;
+}
+
+.content-detail-table tbody tr:hover td {
+    background-color: #f3f8f8;
+}
+
+/* Checkbox trong table */
+.content-detail-table .checkbox {
+    position: sticky;
+    left: 20px;
+    padding: 7px 10px !important;
+}
+
+.content-detail-table tbody .checkbox {
+    background-color: var(--white-color);
+}
+
+/* Css phần chức năng trong table */
+.content-detail-table-function {
+    position: sticky;
+    right: 0;
+    padding: 0px 22px !important;
+    border-right: none !important;
+    overflow: inherit !important;
+}
+
+.content-detail-table thead .content-detail-table-function::before {
+    content:"";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    border-left: 1px solid #c7c7c7 !important;
+}
+
+.content-detail-table tbody .content-detail-table-function {
+    border-left: 1px dotted #c7c7c7;
+    background-color: var(--white-color);
+}
+
+.function {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.function-wrap {
+    display: flex;
+    align-items: center;
+}
+
+.function-btn {
+    border: none;
+    background-color: inherit;
+}
+
+.function-btn-edit {
+    cursor: pointer;
+}
+
+.function-btn-edit:hover .function-btn-edit-text{
+    border: 1px solid #0075c0;
+}
+
+.function-btn-edit-text {
+    font-family: notosans-semibold;
+    font-weight: 600;
+    position: relative;
+    color: inherit;
+    display: inline-block;
+    transition: all .25s ease;
+    white-space: nowrap;
+    font-size: 13px;
+    line-height: 13px;
+    color: #0075c0;
+    border: 1px solid transparent;
+}
+
+.function-btn-dropdown {
+    position: relative;
+}
+
+.function-dropdown-icon {
+    width: 26px;
+    height: 17px;
+    background-position: -892px -360px !important;
+    cursor: pointer;
+}
+
+.function-dropdown-icon-selected {
+    border: 1px solid #0075c0;
+}
+
+/* Dropdown chuc nang */
+.function-dropdown-content {
+    display: none;
+    z-index: 1;
+    position: absolute;
+    top: 22px;
+    left: -76px;
+    width: 120px;
+    border: var(--border);
+    animation: fadeIn linear .2s;
+    background-color: var(--white-color);
+}
+
+.function-dropdown-item {
+    display: flex;
+    justify-content: flex-start;
+    width: 98%;
+    height: 28px;
+    margin: 2px 1px;
+    align-items: center;
+    transition: all .25s ease;
+    cursor: pointer;
+}
+
+.function-dropdown-item-text {
+    padding-left: 12px;
+}
+
+.function-dropdown-item:hover {
+    background-color: #e8e9ec;
+    color: #08bf1e;
+}
+
+/* Tooltip trong bảng */
+.tooltip-table {
+    /* position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 20%;
+    right: 0;
+    width: 100%;
+    height: 50%;
+    color: var(--white-color);
+    border-radius: 8px;
+    background-color: var(--hover-color); */
+}

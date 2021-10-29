@@ -1,0 +1,535 @@
+/* Form chi tiết */
+.modal {
+	position: fixed;
+	z-index: 10;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	animation: fadeIn linear .1s;
+}
+
+.modal-overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+.modal-content {
+	width: 902px;
+	height: 626px;
+	display: flex;
+	flex-direction: column;
+	margin: 5% auto;
+	position: relative;
+	border-radius: 2px;
+	background-color: var(--white-color);
+}
+
+/* Đầu form */
+.modal-content-header {
+	flex: 1;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 2px 0;
+}
+
+.modal-content-header-left {
+	padding-top: 4px;
+}
+
+.modal-content-header-left-wrap {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.modal-content-header-left-wrap-title {
+	font-family: notosans-bold;
+	font-size: 2.4rem;
+    color: var(--text-color);
+    font-weight: 700;
+	padding: 0 20px 0 30px;
+}
+
+.modal-content-header-left-wrap .checkbox {
+	padding-right: 40px;
+}
+
+.modal-content-header-left-wrap .checkbox-text {
+	font-size: 1.3rem;
+	padding-left: 10px;
+}
+
+.modal-content-header-right {
+	padding: 0;
+}
+
+.modal-content-header-right-wrap {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 12px;
+}
+
+.modal-content-header-right-help {
+	margin-right: 10px;
+	background-position: -731px -30px !important;
+	cursor: pointer;
+}
+
+.modal-content-header-right-cancel {
+	margin-right: 10px ;
+	background-position: -144px -144px !important;
+	cursor: pointer;
+}
+
+/* Nội dung chính form */
+.modal-content-body {
+	flex: 8;
+	display: flex;
+	flex-direction: column;
+	padding: 0 32px;
+}
+
+.modal-content-body-top {
+	height: 43%;
+	display: flex;
+	justify-content: space-between;
+	margin: 12px 0;
+}
+
+.modal-content-body-top-column {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+}
+
+.modal-content-body-top-left {
+	padding-right: 14px;
+}
+
+.modal-content-body-top-right {
+	padding-left: 14px;
+}
+
+.modal-content-body-top-row {
+	flex: 1;
+}
+
+.modal-content-body-top-row-wrap {
+	display: flex;
+	justify-content: space-between;
+}
+
+.modal-content-body-bottom {
+	height: 43%;
+	display: flex;
+	flex-direction: column;
+	margin: 12px 0;
+}
+
+.modal-content-body-bottom-row {
+	flex: 1;
+}
+
+
+.modal-content-body-bottom-row-wrap-long {
+	width: 100%;
+}
+
+.modal-content-body-bottom-row-wrap-short {
+	width: 75%;
+	display: flex;
+	justify-content: flex-start;
+}
+
+.modal-content-body-bottom-row-wrap-short .form-item {
+	padding-right: 8px;
+}
+
+/* Css mỗi item trong form */
+.form-item {
+	flex: 1;
+}
+
+/* chiều dài cho các input */
+.form-item-code {
+	height: inherit;
+	flex: 2;
+	padding-right: 10px;
+}
+
+.form-item-name {
+	height: inherit;
+	flex: 3;
+}
+
+.form-item-name input {
+	width: 100%;
+}
+
+.form-item-dateofbirth {
+	flex: 4;
+}
+
+.form-item-gender {
+	flex: 5;
+}
+
+.form-item-label {
+	font-size: 1.2rem;
+    font-weight: 700;
+	margin-bottom: 4px;
+}
+
+.form-item-label span {
+	color: red;
+}
+
+.form-item-content {
+	position: relative;
+}
+
+.form-item-input {
+	width: 100%;
+	font-family: inherit;
+	font-size: 1.3rem;
+    height: 32px;
+    padding: 6px 10px;
+    border-radius: 2px;
+    border: 1px solid #babec5;
+	outline: none;
+	/* box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%); */
+}
+
+.form-item-input:hover {
+	border-color: var(--hover-color);
+}
+
+.form-item-input:focus {
+	border-color: var(--default-color);
+}
+
+/* Combobox */
+.form-item-content-input {
+	position: relative;
+}
+
+.form-item-content-input input {
+	padding-right: 34px;
+}
+
+.form-item-content-input-wrapicon {
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	top: 1px;
+	right: 1px;
+	height: 90%;
+	width: 32px;
+	cursor: pointer;
+}
+
+.form-item-content-input-wrapicon:hover {
+	background-color: #e0e0e0;
+}
+
+.form-item-content-input-icon {
+	background-position: -560px -360px !important;
+}
+
+.form-item-content-combobox {
+	z-index: 1;
+    position: absolute;
+	width: 100%;
+	margin-top: 2px;
+    background-color: #fff;
+    border: 1px solid #babec5;
+    border-radius: 2px;
+    overflow: hidden;
+    box-shadow: 0 -8px 34px 0 rgb(0 0 0 / 5%);
+}
+
+.form-item-content-combobox .combobox-item {
+	display: flex;
+	align-items: center;
+	height: 32px;
+    cursor: pointer;
+    height: 32px;
+    line-height: 32px;
+    white-space: nowrap;
+	padding-left: 20px;
+}
+
+.form-item-content-combobox .combobox-item:hover {
+	background-color:#ebedf0;
+	color: var(--default-color);
+}
+
+.form-item-content-combobox .combobox-item:first-child {
+	margin-top: 2px;
+}
+
+.form-item-content-combobox .combobox-item:last-child {
+	margin-bottom: 2px;
+}
+
+.form-item-content-combobox .combobox-item-current {
+	background-color:#ebedf0;
+	color: var(--default-color);
+}
+
+.combobox-item-text {
+	font-family: inherit;
+	font-size: 1.3rem;
+}
+
+/* Tooltip Validate */
+.tooltip-validate {
+	z-index: 1;
+	visibility: hidden;
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 24px;
+	width: 170px;
+	top: 22px;
+	font-family: inherit;
+	font-size: 1.1rem; 
+	margin: 0 8px;
+	color: var(--white-color);
+	border-radius: 2px;
+	background-color: rgb(69 65 65);
+	animation: fadeIn linear .2s;
+}
+
+.tooltip-validate-code {
+	visibility: hidden;
+	left: 16px
+}
+
+.tooltip-validate-name {
+	visibility: hidden;
+	right: 10px;
+}
+
+.tooltip-validate-department {
+	visibility: hidden;
+	right: 58px;
+}
+
+/* Checkbox */
+.form-item-content-gender {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 6px 80px 0 0;
+}
+
+.form-item-content-gender-label {
+	position: relative;
+}
+
+.form-item-content-gender-label:focus-within .form-item-content-gender-checkmark {
+	box-shadow: 0 0 4px var(--hover-color);
+}
+
+.form-item-content-gender-label input {
+	opacity: 0;
+}
+
+/* Khi chọn 1 item hiện border */
+.form-item-content-gender-label input:checked ~ .form-item-content-gender-checkmark {
+	border: 1px solid var(--default-color);
+}
+
+/*Khi chọn 1 item hiện border tâm màu xanh (là lớp giả được css bên dưới) */
+.form-item-content-gender-label input:checked ~ .form-item-content-gender-checkmark::after {
+	display: block;
+}
+
+.form-item-content-gender-checkmark {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 18px;
+	height: 18px;
+	border: var(--border);
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.form-item-content-gender-checkmark::after {
+	content: "";
+	position: absolute;
+	display: none;
+}
+
+.form-item-content-gender-label .form-item-content-gender-checkmark::after {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	top: 3px;
+	left: 3px;
+	background-color: var(--default-color);
+}
+
+.form-item-content-gender-text {
+	position: absolute;
+	font-size: 1.3rem;
+	top: 1px;
+	left: 26px;
+	cursor: pointer;
+}
+
+/* Chân form */
+.modal-content-footer {
+	flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 30px 10px 30px;
+	padding: 14px 0 6px 0;
+    border-top: 1px solid #e0e0e0;
+}
+
+.modal-content-footer-left {
+	flex: 3;
+} 
+
+.modal-content-footer-right {
+	flex: 1;
+} 
+
+.modal-content-footer-right-wrap {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.btn {
+	font-family: notosans-semibold;
+	height: 36px;
+    padding: 8px 20px;
+	font-weight: 600;
+    transition: all .25s ease;
+    font-size: 1.3rem;
+    line-height: 13px;
+	border-radius: 3px;
+	background-color: var(--white-color);
+	border: 1px solid #8d9096;
+	cursor: pointer;
+	outline: none;
+}
+
+.btn:hover {
+	background-color: #d2d3d6;
+}
+
+.btn:focus {
+	background-color: #d2d3d6;
+}
+
+#btnCancel {
+	
+}
+
+#btnSave {
+	margin-left: 20px;
+}
+
+#btnSaveAndAdd {
+    color: #fff;
+    background-color: var(--default-color);
+	transition: all .2s ease;
+    border: none;
+}
+
+#btnSaveAndAdd:hover {
+	background-color: var(--hover-color);
+}
+
+#btnSaveAndAdd:focus {
+	background-color: var(--hover-color);
+}
+
+/*Css lại cho vue2-datepicker */
+
+.mx-datepicker {
+
+}
+
+.mx-input {
+	height: 32px;
+	border-radius: 2px;
+}
+
+.mx-input:hover {
+	border-color: var(--hover-color);
+}
+
+.mx-input:focus {
+	border-color: var(--default-color);
+}
+
+.form-item-dateofbirth .mx-datepicker {
+	width: 90%;
+}
+
+.form-item-identitydate .mx-datepicker {
+	width: 100%;
+}
+
+.form-item-identitydate {
+	flex: 2;
+	margin-left: 6px;
+}
+
+.form-item-identitynumber {
+	flex: 3;
+}
+
+.mx-icon-calendar {
+	
+}
+
+.mx-date-row td {
+	text-align: center;
+}
+
+.mx-icon-clear {
+	
+}
+
+.mx-calendar-content .cell.active  {
+	background-color: var(--default-color);
+}
+
+.mx-btn:hover {
+    border-color: var(--hover-color);
+    color: var(--hover-color);
+}
+
+.mx-table.mx-table-year tr td {
+	text-align: center;
+}
+
+.mx-table.mx-table-month tr td {
+	text-align: center;
+}
+
+.mx-datepicker-main.mx-datepicker-popup {
+	
+}
+
+.mx-calendar-content .cell:hover {
+	color: var(--hover-color);
+}
+
+.mx-table-date .today {
+	color: var(--default-color);
+}

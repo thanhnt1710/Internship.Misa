@@ -1,0 +1,299 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1352" height="305" viewBox="0 0 1352 305">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21616" data-name="Rectangle 21616" width="1352" height="305" transform="translate(7 56)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.41"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_21584" data-name="Rectangle 21584" width="760" height="208" transform="translate(8 64)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_15594" data-name="Rectangle 15594" width="16" height="16" fill="#fff" opacity="0.76"/>
+    </clipPath>
+    <filter id="Rectangle_4" x="1151" y="311.5" width="187" height="79.964" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#393939" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-4">
+      <rect width="44.75" height="23.811" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="HD-1" transform="translate(-7 -56)" clip-path="url(#clip-path)">
+    <g id="Rectangle_21583" data-name="Rectangle 21583" transform="translate(15 64)" fill="#fff" stroke="#0fa655" stroke-width="1">
+      <rect width="510" height="175" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="509" height="174" rx="3.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_15963" data-name="Mask Group 15963" transform="translate(8 2)" clip-path="url(#clip-path-2)">
+      <g id="Component_22_93" data-name="Component 22 – 93" transform="translate(-0.5 16)">
+        <path id="Path_59288" data-name="Path 59288" d="M-1399,3978.106l2.7,2.7,5.3-5.3" transform="translate(1437 -3228.016)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(119.5 96)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <rect width="127" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="126" height="31" rx="3.5" fill="none"/>
+        </g>
+        <text id="Mã_biên_bản_" data-name="Mã biên bản *" transform="translate(25.5 117)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Mã biên bản</tspan><tspan y="0" fill="#757575"> </tspan><tspan y="0" fill="#fa3939">*</tspan></text>
+        <text id="PM0001" transform="translate(129.5 117)" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">PM0001</tspan></text>
+        <text id="Thông_tin_chung" data-name="Thông tin chung" transform="translate(24.5 79)" fill="#383838" font-size="16" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Thông tin chung</tspan></text>
+        <text id="Phiếu_phiếu_kiểm_kê" data-name="Phiếu phiếu kiểm kê" transform="translate(24.5 28.5)" fill="#6a6a6a" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Phiếu phiếu kiểm kê</tspan></text>
+        <g id="Group_5684" data-name="Group 5684" transform="translate(1843.5)">
+          <path id="Path_7207" data-name="Path 7207" d="M25.757,7.257l-7.286,7.286L7.757,25.257" transform="translate(-7.757 -7.257)" fill="none" stroke="#757575" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+          <path id="Path_7208" data-name="Path 7208" d="M7.757,7.257l7.286,7.286L25.757,25.257" transform="translate(-7.757 -7.257)" fill="none" stroke="#757575" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <path id="Path_59288-2" data-name="Path 59288" d="M-1399,3978.106l2.7,2.7,5.3-5.3" transform="translate(1481.5 -3228.016)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <g id="Path_95483" data-name="Path 95483" transform="translate(0 696)" fill="#fff">
+          <path d="M 1365.5 55.5 L 0.5 55.5 L 0.5 0.5 L 1365.5 0.5 L 1365.5 55.5 Z" stroke="none"/>
+          <path d="M 1 1 L 1 55 L 1365 55 L 1365 1 L 1 1 M 0 0 L 1366 0 L 1366 56 L 0 56 L 0 0 Z" stroke="none" fill="#e4e6f1"/>
+        </g>
+        <g id="Component_34_32" data-name="Component 34 – 32" transform="translate(1037.5 708)">
+          <rect id="Rectangle_20961" data-name="Rectangle 20961" width="96" height="32" rx="4" transform="translate(208)" fill="#0fa655"/>
+          <text id="Hoàn_tất" data-name="Hoàn tất" transform="translate(256 21)" fill="#fff" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-27.317" y="0">Hoàn tất</tspan></text>
+          <g id="Rectangle_21567" data-name="Rectangle 21567" fill="#fff" stroke="#cecece" stroke-width="1">
+            <rect width="96" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="95" height="31" rx="3.5" fill="none"/>
+          </g>
+          <text id="Đóng" transform="translate(48.264 21.117)" fill="#393939" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-16.463" y="0">Đóng</tspan></text>
+          <g id="Path_95609" data-name="Path 95609" transform="translate(104)" fill="none">
+            <path d="M4,0H92a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+            <path d="M 4 1 C 2.345802307128906 1 1 2.345800399780273 1 4 L 1 28 C 1 29.65419960021973 2.345802307128906 31 4 31 L 92 31 C 93.65419769287109 31 95 29.65419960021973 95 28 L 95 4 C 95 2.345800399780273 93.65419769287109 1 92 1 L 4 1 M 4 0 L 92 0 C 94.20913696289063 0 96 1.790866851806641 96 4 L 96 28 C 96 30.20913314819336 94.20913696289063 32 92 32 L 4 32 C 1.790863037109375 32 0 30.20913314819336 0 28 L 0 4 C 0 1.790866851806641 1.790863037109375 0 4 0 Z" stroke="none" fill="#cecece"/>
+          </g>
+          <text id="Lưu_nháp" data-name="Lưu nháp" transform="translate(152 21.117)" fill="#393939" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-30.037" y="0">Lưu nháp</tspan></text>
+        </g>
+        <g id="Group_45512" data-name="Group 45512" opacity="0">
+          <text id="Kết_luận" data-name="Kết luận" transform="translate(24.5 636)" fill="#757575" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">KẾT LUẬN</tspan></text>
+          <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(23.5 648)" fill="#fff" stroke="#cecece" stroke-width="1">
+            <rect width="1318" height="40" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="1317" height="39" rx="3.5" fill="none"/>
+          </g>
+          <text id="Balances" transform="translate(40.5 673)" fill="#757575" font-size="12" font-family="OpenSans-Italic, Open Sans" font-style="italic"><tspan x="0" y="0">Nội dung...</tspan></text>
+        </g>
+        <path id="Path_95487" data-name="Path 95487" d="M0,0H1600" transform="translate(25 264)" fill="none" stroke="#707070" stroke-width="1" opacity="0.18"/>
+        <g id="Group_45511" data-name="Group 45511" transform="translate(1093.5 -413) rotate(90)">
+          <path id="Rectangle_18097" data-name="Rectangle 18097" d="M4,0h9a0,0,0,0,1,0,0V39a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(664 249)" fill="#0fa655"/>
+          <path id="Path_70808" data-name="Path 70808" d="M0,0,4,4,0,8" transform="translate(671.945 272.5) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+        <g id="Rectangle_2-3" data-name="Rectangle 2" transform="translate(371.5 96)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <rect width="128" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="127" height="31" rx="3.5" fill="none"/>
+        </g>
+        <text id="Ngày_kiểm_kê_" data-name="Ngày kiểm kê *" transform="translate(270.5 117)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Ngày kiểm kê </tspan><tspan y="0" fill="red">*</tspan></text>
+        <g id="Group_45523" data-name="Group 45523" transform="translate(3802.5 -376)">
+          <g id="Rectangle_2-4" data-name="Rectangle 2" transform="translate(-3335 472)" fill="#fff" stroke="#cecece" stroke-width="1">
+            <path d="M0,0H28a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M1,.5H28A3.5,3.5,0,0,1,31.5,4V28A3.5,3.5,0,0,1,28,31.5H1A.5.5,0,0,1,.5,31V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+          </g>
+          <g id="Mask_Group_45" data-name="Mask Group 45" transform="translate(-3327 480)" clip-path="url(#clip-path-3)">
+            <g id="Group_27085" data-name="Group 27085" transform="translate(1 1)">
+              <rect id="Rectangle_15593" data-name="Rectangle 15593" width="14.179" height="11.422" rx="1" transform="translate(0 1.575)" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              <line id="Line_1028" data-name="Line 1028" y2="2.757" transform="translate(11.028)" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              <line id="Line_1029" data-name="Line 1029" y2="2.757" transform="translate(3.151)" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              <line id="Line_1030" data-name="Line 1030" x2="13.391" transform="translate(0.394 4.726)" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              <g id="Group_27083" data-name="Group 27083" transform="translate(2.757 7.483)">
+                <line id="Line_1031" data-name="Line 1031" x2="1.575" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                <line id="Line_1032" data-name="Line 1032" x2="1.575" transform="translate(3.545)" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                <line id="Line_1033" data-name="Line 1033" x2="1.575" transform="translate(7.089)" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+              <g id="Group_27084" data-name="Group 27084" transform="translate(2.757 10.24)">
+                <line id="Line_1034" data-name="Line 1034" x2="1.575" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                <line id="Line_1035" data-name="Line 1035" x2="1.575" transform="translate(3.545)" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="_22_06_2020" data-name="22/06/2020" transform="translate(382.5 117)" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">22/06/2020</tspan></text>
+        <g id="_8" data-name=" 8" transform="translate(122.5 142)">
+          <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff">
+            <path d="M 9 17.5 C 4.313079833984375 17.5 0.5 13.68692016601563 0.5 9 C 0.5 4.313079833984375 4.313079833984375 0.5 9 0.5 C 13.68692016601563 0.5 17.5 4.313079833984375 17.5 9 C 17.5 13.68692016601563 13.68692016601563 17.5 9 17.5 Z" stroke="none"/>
+            <path d="M 9 1 C 4.588789939880371 1 1 4.588789939880371 1 9 C 1 13.41121006011963 4.588789939880371 17 9 17 C 13.41121006011963 17 17 13.41121006011963 17 9 C 17 4.588789939880371 13.41121006011963 1 9 1 M 9 0 C 13.97056007385254 0 18 4.029439926147461 18 9 C 18 13.97056007385254 13.97056007385254 18 9 18 C 4.029439926147461 18 0 13.97056007385254 0 9 C 0 4.029439926147461 4.029439926147461 0 9 0 Z" stroke="none" fill="#0fa655"/>
+          </g>
+          <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="4" cy="4" r="4" transform="translate(5 5)" fill="#0fa655" stroke="#0fa655" stroke-width="1"/>
+        </g>
+        <g id="_9" data-name=" 9" transform="translate(273.5 142)">
+          <g id="Ellipse_1-3" data-name="Ellipse 1" fill="#fff" stroke="#ccc" stroke-width="1">
+            <circle cx="9" cy="9" r="9" stroke="none"/>
+            <circle cx="9" cy="9" r="8.5" fill="none"/>
+          </g>
+          <circle id="Ellipse_1-4" data-name="Ellipse 1" cx="4" cy="4" r="4" transform="translate(5 5)" fill="#0fa655" opacity="0"/>
+        </g>
+        <text id="Theo_Kho_phòng" data-name="Theo Kho/phòng" transform="translate(148.5 156)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Theo Kho/phòng</tspan></text>
+        <text id="Theo_Môn_học" data-name="Theo Môn học" transform="translate(299.5 156)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Theo Môn học</tspan></text>
+        <text id="Phạm_vi_" data-name="Phạm vi *" transform="translate(24.5 193)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Phạm vi</tspan><tspan y="0" fill="#f94141"> </tspan><tspan y="0" fill="red">*</tspan></text>
+        <text id="Hình_thức_" data-name="Hình thức *" transform="translate(24.5 156)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Hình thức</tspan><tspan y="0" fill="#f94141"> </tspan><tspan y="0" fill="red">*</tspan></text>
+        <g id="Rectangle_2-5" data-name="Rectangle 2" transform="translate(119.5 176)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <rect width="380" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="379" height="31" rx="3.5" fill="none"/>
+        </g>
+        <path id="ic_Chevron" d="M0,0,4,4,0,8" transform="translate(485.115 190) rotate(90)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text id="Tất_cả" data-name="Tất cả" transform="translate(130.5 197)" fill="#383838" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Tất cả</tspan></text>
+        <g id="Component_21_5" data-name="Component 21 – 5" transform="translate(1687.499)">
+          <text id="Medium_20pt" data-name="Medium 20pt" transform="translate(24.001 14)" fill="#1991eb" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Quy trình kiểm kê</tspan></text>
+          <circle id="Ellipse_5629" data-name="Ellipse 5629" cx="8" cy="8" r="8" transform="translate(0 1.836)" fill="#19a7f3"/>
+          <text id="_" data-name="?" transform="translate(8 14.836)" fill="#fff" font-size="12" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-2.719" y="0">?</tspan></text>
+        </g>
+        <path id="Path_95475" data-name="Path 95475" d="M0,0H1838.5V64H0Z" transform="translate(26 363)" fill="#f5f6fa"/>
+        <text id="Số_hiệu" data-name="Số hiệu" transform="translate(161.5 400)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-23.042" y="0">Số hiệu</tspan></text>
+        <text id="Mã_thiết_bị" data-name="Mã thiết bị" transform="translate(76 400)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-33.801" y="0">Mã thiết bị</tspan></text>
+        <text id="Tên_thiết_bị" data-name="Tên thiết bị" transform="translate(303 400)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-35.582" y="0">Tên thiết bị</tspan></text>
+        <text id="Kho_phòng" data-name="Kho/phòng" transform="translate(582.5 400)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-34.674" y="0">Kho/phòng</tspan></text>
+        <text id="Loại_thiết_bị" data-name="Loại thiết bị" transform="translate(448 400)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-37.108" y="0">Loại thiết bị</tspan></text>
+        <text id="Môn_học" data-name="Môn học" transform="translate(718.5 400)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-27.098" y="0">Môn học</tspan></text>
+        <text id="Đơn_vị_tính" data-name="Đơn vị tính" transform="translate(780.5 400)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Đơn vị tính</tspan></text>
+        <text id="Ghi_chú" data-name="Ghi chú" transform="translate(1704.5 400)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Ghi chú</tspan></text>
+        <text id="Số_lượng" data-name="Số lượng" transform="translate(865.5 400)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Số lượng</tspan></text>
+        <path id="Path_95477" data-name="Path 95477" d="M-7824.1-6417v60" transform="translate(9005.105 6812.001)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+        <path id="Path_84592" data-name="Path 84592" d="M-7824.1-6417v62.042" transform="translate(8831.605 6809.959)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+        <path id="Path_95476" data-name="Path 95476" d="M-7824.1-6417v60" transform="translate(9078.105 6812.001)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+        <path id="Path_95610" data-name="Path 95610" d="M-7824.1-6417v60" transform="translate(9199.105 6812.001)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+        <g id="Group_43078" data-name="Group 43078" transform="translate(-48 -204)">
+          <g id="Group_42603" data-name="Group 42603" transform="translate(3264 110.5)">
+            <path id="Tab_White" data-name="Tab White" d="M4,0H144a0,0,0,0,1,0,0V32a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(-3191.5 376)" fill="#0fa655"/>
+            <text id="Danh_sách_thiết_bị" data-name="Danh sách thiết bị" transform="translate(-3120 396.5)" fill="#fff" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-56.792" y="0">Danh sách thiết bị</tspan></text>
+          </g>
+          <g id="Group_43225" data-name="Group 43225" transform="translate(3449 112)">
+            <path id="Tab_White-2" data-name="Tab White" d="M0,0H140a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(-3233 375)" fill="#fff" stroke="#cecece" stroke-width="1"/>
+            <text id="Ban_kiểm_kê" data-name="Ban kiểm kê" transform="translate(-3163.173 396)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-38.514" y="0">Ban kiểm kê</tspan></text>
+          </g>
+        </g>
+        <text id="Mất" transform="translate(972.5 416)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-12.324" y="0">Mất</tspan></text>
+        <text id="Hỏng" transform="translate(1063.5 416)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-16.593" y="0">Hỏng</tspan></text>
+        <text id="Trước_kiểm_kê" data-name="Trước kiểm kê" transform="translate(1011.5 383)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-44.84" y="0">Trước kiểm kê</tspan></text>
+        <line id="Line_6305" data-name="Line 6305" x2="165" transform="translate(929 393)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+        <text id="Sau_kiểm_kê" data-name="Sau kiểm kê" transform="translate(1231.5 383)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-37.797" y="0">Sau kiểm kê</tspan></text>
+        <line id="Line_6305-2" data-name="Line 6305" x2="272" transform="translate(1097 393.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+        <text id="Mất-2" data-name="Mất" transform="translate(1144.5 416)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-12.324" y="0">Mất</tspan></text>
+        <text id="Hỏng-2" data-name="Hỏng" transform="translate(1222.5 416)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-16.593" y="0">Hỏng</tspan></text>
+        <text id="Còn_dùng_được" data-name="Còn dùng được" transform="translate(1311.5 416)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-47.642" y="0">Còn dùng được</tspan></text>
+        <g id="Group_26745" data-name="Group 26745" transform="translate(1015.813 -1999.617)">
+          <g id="Rectangle_15396" data-name="Rectangle 15396" transform="translate(243.688 2280.118)" fill="none" stroke="#cecece" stroke-width="1">
+            <rect width="93" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="92" height="31" rx="3.5" fill="none"/>
+          </g>
+          <text id="Nhập_khẩu" data-name="Nhập khẩu" transform="translate(255.688 2301.118)" fill="#3d3f4e" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Nhập khẩu</tspan></text>
+        </g>
+        <g id="Group_45643" data-name="Group 45643">
+          <g id="Rectangle_15396-2" data-name="Rectangle 15396" transform="translate(1155.5 280.5)" fill="none" stroke="#cecece" stroke-width="1">
+            <rect width="96" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="95" height="31" rx="3.5" fill="none"/>
+          </g>
+          <text id="Xuất_khẩu" data-name="Xuất khẩu" transform="translate(1171.5 301.5)" fill="#3d3f4e" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Xuất khẩu</tspan></text>
+        </g>
+        <g id="Group_45642" data-name="Group 45642">
+          <g id="Rectangle_13000" data-name="Rectangle 13000" transform="translate(1115.5 280.5)" fill="#fff" stroke="#cecece" stroke-width="1">
+            <rect width="32" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" fill="none"/>
+          </g>
+          <g id="Group_26766" data-name="Group 26766" transform="translate(-4957.5 -3072.5)">
+            <g id="Group_2607" transform="translate(6080.5 3360)">
+              <path id="Path_2492" d="M19.082,9.88a.659.659,0,0,1-.682-.6h0a.673.673,0,0,1,.682-.682h0a.659.659,0,0,1,.682.6v.085A.827.827,0,0,1,19.082,9.88Z" transform="translate(-3.983 -1.264)" fill="#878787"/>
+              <path id="Path_2493" d="M13.951,20.6H8.662A1.809,1.809,0,0,1,6.7,18.917V11.6h9.128v7.317A1.775,1.775,0,0,1,13.951,20.6ZM7.98,12.771v6.22a.628.628,0,0,0,.682.585h5.289a.633.633,0,0,0,.682-.585h0v-6.22Z" transform="translate(-2.264 -1.704)" fill="#878787"/>
+              <path id="Path_2494" d="M15.828,6.313H6.7V1.621A1.678,1.678,0,0,1,8.321,0h5.972a1.678,1.678,0,0,1,1.621,1.621l-.085,4.692ZM7.98,5.033h6.569V1.621a.367.367,0,0,0-.341-.341H8.236a.367.367,0,0,0-.341.341L7.98,5.033Z" transform="translate(-2.264)" fill="#878787"/>
+              <path id="Path_2495" d="M16.7,18.3" transform="translate(-3.733 -2.689)" fill="#878787" stroke="#fff" stroke-miterlimit="10" stroke-width="1.531"/>
+              <path id="Path_2496" d="M17.367,16.237h-2.9v-1.28h2.9a.765.765,0,0,0,.768-.768V8.047a.765.765,0,0,0-.768-.768H3.547a.765.765,0,0,0-.768.768h0v6.227a.765.765,0,0,0,.768.768H6.618v1.194H3.547A2.076,2.076,0,0,1,1.5,14.19V8.047A2,2,0,0,1,3.462,6h13.99A2.076,2.076,0,0,1,19.5,8.047v6.227A2.138,2.138,0,0,1,17.367,16.237Z" transform="translate(-1.5 -0.882)" fill="#878787"/>
+              <path id="Path_2497" d="M13.507,16.28H9.582A.673.673,0,0,1,8.9,15.6h0a.583.583,0,0,1,.6-.6h3.924a.673.673,0,0,1,.682.682h0a.579.579,0,0,1-.6.6Z" transform="translate(-2.587 -2.204)" fill="#878787"/>
+              <path id="Path_2498" d="M12.242,19.28H9.682A.673.673,0,0,1,9,18.6H9a.583.583,0,0,1,.6-.6h2.559a.673.673,0,0,1,.682.682h0a.583.583,0,0,1-.6.6Z" transform="translate(-2.602 -2.645)" fill="#878787"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_12327" data-name="Group 12327" transform="translate(-188.418 -57.5)">
+          <path id="Path_11070" data-name="Path 11070" d="M1587.063,1367.251h-8.2v15.088" transform="translate(-1351 -968)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Path_11071" data-name="Path 11071" d="M1572.918,1376.492l6.13,6.13,6.224-5.658" transform="translate(-1351 -968)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+        <g id="Rectangle_20960" data-name="Rectangle 20960" transform="translate(56.5 323.5)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <rect width="128" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="127" height="31" rx="3.5" fill="none"/>
+        </g>
+        <text id="Thêm_nhiều_TB" data-name="Thêm nhiều TB" transform="translate(119.5 344.617)" fill="#393939" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-47.046" y="0">Thêm nhiều TB</tspan></text>
+        <g id="Group_45536" data-name="Group 45536" transform="translate(479.5 28.5)">
+          <text id="Hiện_danh_sách_TB_" data-name="Hiện danh sách TB *" transform="translate(552 315)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Hiện danh sách TB </tspan><tspan y="0" fill="red">*</tspan></text>
+          <g id="Rectangle_2-6" data-name="Rectangle 2" transform="translate(680 294)" fill="#fff" stroke="#cecece" stroke-width="1">
+            <rect width="169" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="168" height="31" rx="3.5" fill="none"/>
+          </g>
+          <path id="ic_Chevron-2" data-name="ic_Chevron" d="M0,0,4,4,0,8" transform="translate(838.301 309) rotate(90)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <text id="_TB_phát_sinh_hỏng_mất_" data-name=" TB phát sinh hỏng, mất " transform="translate(688 315)" fill="#383838" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0" xml:space="preserve"> TB phát sinh hỏng, mất </tspan></text>
+          <g id="Group_45392" data-name="Group 45392" transform="translate(-9520 10483.498)">
+            <g id="Group_43382" data-name="Group 43382" transform="translate(10200 -10153.498)">
+              <g id="Group_43381" data-name="Group 43381" transform="translate(0)">
+                <g transform="matrix(1, 0, 0, 1, -1160, -320.5)" filter="url(#Rectangle_4)">
+                  <path id="Rectangle_4-2" data-name="Rectangle 4" d="M3.177,0H165.823C167.578,0,169,.826,169,1.844V60.12c0,1.019-1.422,1.844-3.177,1.844H3.177C1.422,61.964,0,61.138,0,60.12V1.844C0,.826,1.422,0,3.177,0Z" transform="translate(1160 320.5)" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+            <path id="Rectangle_5" data-name="Rectangle 5" d="M0,0H169a0,0,0,0,1,0,0V30a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" transform="translate(10200 -10123.498)" fill="#cce8ff"/>
+            <text id="TB_phát_sinh_hỏng_mất_" data-name="TB phát sinh hỏng, mất " transform="translate(10213 -10104)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">TB phát sinh hỏng, mất </tspan></text>
+            <text id="Tất_cả_TB_hiện_có" data-name="Tất cả TB hiện có" transform="translate(10216 -10133.498)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Tất cả TB hiện có</tspan></text>
+          </g>
+        </g>
+        <path id="Path_95494" data-name="Path 95494" d="M-7824.1-6417v109" transform="translate(9349.605 6812.001)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+        <text id="Chênh_lệch" data-name="Chênh lệch" transform="translate(1503 383)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-34.833" y="0">Chênh lệch</tspan></text>
+        <line id="Line_6593" data-name="Line 6593" x2="272" transform="translate(1368.5 393.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+        <text id="Thừa" transform="translate(1416 416)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-16.202" y="0">Thừa</tspan></text>
+        <text id="Mất-3" data-name="Mất" transform="translate(1494 416)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-12.324" y="0">Mất</tspan></text>
+        <text id="Hỏng-3" data-name="Hỏng" transform="translate(1583 416)" fill="#4d4f5c" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-16.593" y="0">Hỏng</tspan></text>
+        <g id="Group_45694" data-name="Group 45694">
+          <path id="Path_84403" data-name="Path 84403" d="M-7824.1-6417v140" transform="translate(8227.105 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_84408" data-name="Path 84408" d="M-7824.1-6417v140" transform="translate(8027.105 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_95479" data-name="Path 95479" d="M-7824.1-6417v140" transform="translate(7945.105 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_84409" data-name="Path 84409" d="M-7824.1-6417v140" transform="translate(8227.605 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_95480" data-name="Path 95480" d="M-7824.1-6417v140" transform="translate(8489.105 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_84410" data-name="Path 84410" d="M-7824.1-6417v140" transform="translate(8324.105 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_84411" data-name="Path 84411" d="M-7824.1-6417v140" transform="translate(8596.105 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_84554" data-name="Path 84554" d="M-7824.1-6417v140" transform="translate(8681.605 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_84586" data-name="Path 84586" d="M-7824.1-6417v140" transform="translate(8752.605 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_84587" data-name="Path 84587" d="M-7824.1-6417v140" transform="translate(8919.105 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_95495" data-name="Path 95495" d="M-7824.1-6417v140" transform="translate(9464.105 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+          <path id="Path_95705" data-name="Path 95705" d="M-7824.1-6417v140" transform="translate(9632.605 6780.5)" fill="none" stroke="#e4e6f1" stroke-width="1"/>
+        </g>
+        <g id="Group_45644" data-name="Group 45644" transform="translate(0.5 -16)">
+          <text id="Kho_Phòng-2" data-name="Kho/Phòng" transform="translate(846 318)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Kho/Phòng</tspan></text>
+          <text id="Nhóm_theo:" data-name="Nhóm theo:" transform="translate(722 318)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Nhóm theo:</tspan></text>
+          <text id="Môn_học-2" data-name="Môn học" transform="translate(963 316.5)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Môn học</tspan></text>
+          <text id="Loại" transform="translate(1066 316.5)" fill="#383838" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Loại</tspan></text>
+          <g id="ic_Checkbox_Active" transform="translate(632 -3277.5)">
+            <rect id="Rectangle_3" data-name="Rectangle 3" width="18" height="18" rx="4" transform="translate(186 3580)" fill="#0fa655"/>
+            <path id="Path_59288-3" data-name="Path 59288" d="M-1399,3978.106l2.7,2.7,5.3-5.3" transform="translate(1590.5 -389.014)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(937 302.5)" fill="#f5f5f5" stroke="#ccc" stroke-width="1">
+            <rect width="18" height="18" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="17" height="17" rx="3.5" fill="none"/>
+          </g>
+          <g id="Rectangle_3-3" data-name="Rectangle 3" transform="translate(1040 302.5)" fill="#f5f5f5" stroke="#ccc" stroke-width="1">
+            <rect width="18" height="18" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="17" height="17" rx="3.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Repeat_Grid_370" data-name="Repeat Grid 370" transform="translate(1803.75 440)" clip-path="url(#clip-path-4)">
+          <g id="Group_45141" data-name="Group 45141" transform="translate(10766 17746.25)">
+            <g id="Layer_1" data-name="Layer 1" transform="translate(-10746.5 -17754)">
+              <path id="Path_95340" data-name="Path 95340" d="M12.5,13.5h12V24.734a2.379,2.379,0,0,1-2.415,2.342h-7.17A2.379,2.379,0,0,1,12.5,24.734Z" transform="translate(-2 -2.576)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95341" data-name="Path 95341" d="M8.5,13.5h16" transform="translate(0 -2.576)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95342" data-name="Path 95342" d="M23.5,8.5H17l-1,2.424h8.5Z" transform="translate(-3.75)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95343" data-name="Path 95343" d="M18.5,21.5v5.818" transform="translate(-5 -6.697)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95344" data-name="Path 95344" d="M24.5,21.5v5.818" transform="translate(-8 -6.697)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95345" data-name="Path 95345" d="M30.5,21.5v5.818" transform="translate(-11 -6.697)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            </g>
+          </g>
+        </g>
+        <g id="Repeat_Grid_509" data-name="Repeat Grid 509" transform="translate(1803.75 480)" clip-path="url(#clip-path-4)">
+          <g id="Group_45141-2" data-name="Group 45141" transform="translate(10766 17746.25)">
+            <g id="Layer_1-2" data-name="Layer 1" transform="translate(-10746.5 -17754)">
+              <path id="Path_95340-2" data-name="Path 95340" d="M12.5,13.5h12V24.734a2.379,2.379,0,0,1-2.415,2.342h-7.17A2.379,2.379,0,0,1,12.5,24.734Z" transform="translate(-2 -2.576)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95341-2" data-name="Path 95341" d="M8.5,13.5h16" transform="translate(0 -2.576)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95342-2" data-name="Path 95342" d="M23.5,8.5H17l-1,2.424h8.5Z" transform="translate(-3.75)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95343-2" data-name="Path 95343" d="M18.5,21.5v5.818" transform="translate(-5 -6.697)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95344-2" data-name="Path 95344" d="M24.5,21.5v5.818" transform="translate(-8 -6.697)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <path id="Path_95345-2" data-name="Path 95345" d="M30.5,21.5v5.818" transform="translate(-11 -6.697)" fill="none" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_46030" data-name="Group 46030">
+      <path id="Path_95693" data-name="Path 95693" d="M1336.249,690V570L1194,571.071" transform="translate(-653.249 -402)" fill="none" stroke="#f5f6fa" stroke-width="1"/>
+      <path id="Polygon_58" data-name="Polygon 58" d="M10,0,20,18H0Z" transform="translate(537 179) rotate(-90)" fill="#fff"/>
+    </g>
+    <g id="Group_26833" data-name="Group 26833" transform="translate(-97 -69)">
+      <text id="Mời_bạn_thiết_lập_Thông_tin_chung_để_bắt_đầu_làm_việc_trên_Biên_bản_kiểm_kê" data-name="Mời bạn thiết lập &quot;Thông tin chung&quot; để bắt đầu làm việc trên Biên bản kiểm kê" transform="translate(780 387)" fill="#fff" font-size="13" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-244.642" y="0">Mời bạn thiết lập &quot;Thông tin chung&quot; để bắt đầu làm việc trên Biên bản kiểm kê</tspan></text>
+    </g>
+  </g>
+</svg>

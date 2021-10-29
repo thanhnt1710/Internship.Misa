@@ -1,0 +1,15 @@
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Amis.DataAccess.deps.json
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Amis.DataAccess.dll
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\ref\MISA.Amis.DataAccess.dll
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Amis.DataAccess.pdb
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Amis.Business.dll
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Amis.Business.pdb
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Amis.DataAccess.csproj.AssemblyReference.cache
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Amis.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Amis.DataAccess.AssemblyInfoInputs.cache
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Amis.DataAccess.AssemblyInfo.cs
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Amis.DataAccess.csproj.CoreCompileInputs.cache
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Amis.DataAccess.csproj.CopyComplete
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Amis.DataAccess.dll
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\ref\MISA.Amis.DataAccess.dll
+E:\20203\MISA_AMIS\amis_backend\MISA.AMIS\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Amis.DataAccess.pdb

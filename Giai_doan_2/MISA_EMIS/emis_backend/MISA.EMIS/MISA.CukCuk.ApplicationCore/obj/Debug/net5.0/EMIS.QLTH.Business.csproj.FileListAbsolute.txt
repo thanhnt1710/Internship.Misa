@@ -1,0 +1,14 @@
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\EMIS.QLTH.Business.csproj.AssemblyReference.cache
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\EMIS.QLTH.Business.Properties.Resources.resources
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\EMIS.QLTH.Business.csproj.GenerateResource.cache
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\EMIS.QLTH.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\EMIS.QLTH.Business.AssemblyInfoInputs.cache
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\EMIS.QLTH.Business.AssemblyInfo.cs
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\EMIS.QLTH.Business.csproj.CoreCompileInputs.cache
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\EMIS.QLTH.Business.deps.json
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\EMIS.QLTH.Business.dll
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\ref\EMIS.QLTH.Business.dll
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\bin\Debug\net5.0\EMIS.QLTH.Business.pdb
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\EMIS.QLTH.Business.dll
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\ref\EMIS.QLTH.Business.dll
+E:\20203\misa_fresher\Giai_doan_2\MISA_EMIS\emis_backend\MISA.EMIS\MISA.CukCuk.ApplicationCore\obj\Debug\net5.0\EMIS.QLTH.Business.pdb

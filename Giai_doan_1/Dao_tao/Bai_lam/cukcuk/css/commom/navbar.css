@@ -1,0 +1,131 @@
+/* Dùng thu nhỏ Navbar */
+.grid__column-navbar_mini {
+	padding-left: 12px;
+	padding-right: 12px;
+	width: 4.4%;
+}
+
+.grid__column-navbar_mini_right {
+	padding-left: 12px;
+	padding-right: 12px;
+	width: 95.6%;
+}
+
+/* Navbar */
+.navbar {
+	border-right: var(--border);
+	height: 100vh;
+	padding-right: 0;
+	transition: width linear 1s;
+}
+
+.navbar__header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+
+.navbar__header-link__img {
+	width: 24px;
+}
+
+.narbar__header-logo__img {
+	float: right;
+	width: 90%;
+	padding-right: 14px;
+}
+
+.navbar__list {
+	padding: 0;
+}
+
+.navbar__list-item {
+	display: flex;
+	align-items: center;
+	height: 44px;
+	padding: 8px 0;
+	margin: 0;
+	font-size: 1.3rem;
+}
+
+.navbar__list-item__current {
+	background-color: var(--default-color) !important;
+}
+
+.navbar__list-item-link {
+	display: block;
+	width: 100%;
+	height: 150%;
+	padding: 6% 0;
+}
+
+.navbar__list-item__current .navbar__list-item-link {
+	color: var(--white-color);
+	font-family: Google-Medium;
+}
+
+.navbar__list-item:hover {
+	background-color: #e5e5e5;
+	cursor: pointer;
+}
+
+.navbar__list-item__icon {
+	width: 52px;
+	text-align: center;
+}
+
+.navbar__list-item__icon img {
+	width: 20px;
+}
+
+.navbar__list-item-link {
+	text-decoration: none;
+	color: var(--text-color);
+	animation: fadeIn ease-in 2s; 
+}
+
+.navbar__btn {
+	
+}
+
+.navbar__btn-moveleft {
+	font-size: 18px;
+	width: 18px;
+	background-color:#BBBBBB ;
+	color: #ffffff;
+	padding: 2px 2px 2px 3px;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	float: right;
+}
+
+.navbar__btn-moveleft.fas {
+	/* display: none; */
+}
+
+.navbar__btn-moveleft:hover {
+	cursor: pointer;
+	background-color: #454545;
+}
+
+.navbar__btn-moveright {
+	font-size: 18px;
+	width: 18px;
+	background-color: #BBBBBB;
+	color: #ffffff;
+	padding: 2px 2px 2px 4px;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	float: right;
+}
+
+.navbar__btn-moveright.fas {
+	display: none;
+}
+
+.navbar__btn-moveright:hover {
+	cursor: pointer;
+	background-color: #454545;
+}

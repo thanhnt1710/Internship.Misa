@@ -1,0 +1,7 @@
+toast message: k loadData duoc tu server -> ok, 
+		them,sua,xoa thanh cong (that bai) ,
+		du lieu khong hop le(vui long kiem tra lai),
+popup: cos chac muon huy nhap, muon thoat, muon xoa
+
+dblclick hien tt chi tiet -> cho phep sua, xoa
+Mot so truong chua post dc

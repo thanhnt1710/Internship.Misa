@@ -1,0 +1,131 @@
+/* Dùng thu nhỏ Navbar */
+.grid-column-navbar_mini {
+	padding-left: 12px;
+	padding-right: 12px;
+	width: 4.4%;
+}
+
+.grid-column-navbar_mini_right {
+	padding-left: 12px;
+	padding-right: 12px;
+	width: 95.6%;
+}
+
+/* Navbar */
+.navbar {
+	border-right: var(--border);
+	height: 100vh;
+	padding-right: 0;
+	transition: width linear 1s;
+}
+
+.navbar-header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+
+.navbar-header-link-img {
+	width: 24px;
+}
+
+.narbar-header-logo-img {
+	float: right;
+	width: 90%;
+	padding-right: 14px;
+}
+
+.navbar-list {
+	padding: 0;
+}
+
+.navbar-list-item {
+	display: flex;
+	align-items: center;
+	height: 44px;
+	padding: 8px 0;
+	margin: 0;
+	font-size: 1.3rem;
+}
+
+.navbar-list-item-current {
+	background-color: var(--default-color) !important;
+}
+
+.navbar-list-item-link {
+	display: block;
+	width: 100%;
+	height: 150%;
+	padding: 6% 0;
+}
+
+.navbar-list-item-current .navbar-list-item-link {
+	color: var(--white-color);
+	font-family: Google-Medium;
+}
+
+.navbar-list-item:hover {
+	background-color: #e5e5e5;
+	cursor: pointer;
+}
+
+.navbar-list-item-icon {
+	width: 52px;
+	text-align: center;
+}
+
+.navbar-list-item-icon img {
+	width: 20px;
+}
+
+.navbar-list-item-link {
+	text-decoration: none;
+	color: var(--text-color);
+	animation: fadeIn ease-in 2s; 
+}
+
+.navbar-btn {
+	
+}
+
+.navbar-btn-moveleft {
+	font-size: 18px;
+	width: 18px;
+	background-color:#BBBBBB ;
+	color: #ffffff;
+	padding: 2px 2px 2px 3px;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	float: right;
+}
+
+.navbar-btn-moveleft.fas {
+	/* display: none; */
+}
+
+.navbar-btn-moveleft:hover {
+	cursor: pointer;
+	background-color: #454545;
+}
+
+.navbar-btn-moveright {
+	font-size: 18px;
+	width: 18px;
+	background-color: #BBBBBB;
+	color: #ffffff;
+	padding: 2px 2px 2px 4px;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	float: right;
+}
+
+.navbar-btn-moveright.fas {
+	display: none;
+}
+
+.navbar-btn-moveright:hover {
+	cursor: pointer;
+	background-color: #454545;
+}

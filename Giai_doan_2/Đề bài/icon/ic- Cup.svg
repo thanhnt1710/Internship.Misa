@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="40" viewBox="0 0 16 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21224" data-name="Rectangle 21224" width="16" height="40" transform="translate(328.5 328)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.24"/>
+    </clipPath>
+  </defs>
+  <g id="ic-_Cup" data-name="ic- Cup" transform="translate(-328.5 -328)" clip-path="url(#clip-path)">
+    <g id="Group_42389" data-name="Group 42389" transform="translate(35.5 -28)">
+      <path id="Path_95478" data-name="Path 95478" d="M4,0h9V39H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(294.5 357)" fill="#0fa655"/>
+      <path id="Path_70808" data-name="Path 70808" d="M0,0,4,4,0,8" transform="translate(302.445 380.5) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

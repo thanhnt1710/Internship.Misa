@@ -1,0 +1,84 @@
+/* Dùng thu nhỏ Navbar */
+.grid-column-navbar_mini {
+	padding-left: 12px;
+	padding-right: 12px;
+	width: 4.4%;
+}
+
+.grid-column-navbar_mini_right {
+	padding-left: 12px;
+	padding-right: 12px;
+	width: 95.6%;
+}
+
+/* Navbar */
+.navbar {
+	height: 100vh;
+	padding-right: 0;
+	background-color: #393a3d;
+}
+
+.navbar-header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 8px;
+}
+
+.navbar-header-link {
+	background-position: -425px -89px;
+	margin: 0 12px 0 28px;
+}
+
+.narbar-header-logo-img {
+	width: 100%;
+	height: 33px;
+	padding-right: 22px;
+}
+
+.navbar-content {
+	margin-top: 16px;
+}
+
+.navbar-list {
+	position: relative;
+	padding: 0;
+}
+
+.navbar-list-item {
+	height: 42px;
+	list-style: none;
+	padding: 8px 0px;
+}
+
+.navbar-list-item-current {
+	font-weight: 700;
+	border-left: 8px solid #2ca01c;
+	background-color: #5d5d61;
+}
+
+.navbar-list-item-current .navbar-list-item-icon {
+	background-position-y: -1584px !important;
+	margin: 0 8px 0 8px;
+}
+
+.navbar-list-item-link {
+	display: flex;
+	align-items: center;
+	font-size: 1.3rem;
+	text-decoration: none;
+}
+
+.navbar-list-item:hover {
+	background-color: #5d5d61;
+	cursor: pointer;
+}
+
+.navbar-list-item-icon {
+	margin: 0 8px 0 16px;
+}
+
+.navbar-list-item-link span {
+	color: var(--white-color);
+}

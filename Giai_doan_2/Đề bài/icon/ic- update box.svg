@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21200" data-name="Rectangle 21200" width="24" height="24" transform="translate(561 455.5)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.31"/>
+    </clipPath>
+  </defs>
+  <g id="ic-_update_box" data-name="ic- update box" transform="translate(-561 -455.5)" clip-path="url(#clip-path)">
+    <g id="ic-_update_box-2" data-name="ic- update box">
+      <path id="Path_95248" data-name="Path 95248" d="M16.962,22.923a5.962,5.962,0,1,1,5.962-5.962A5.968,5.968,0,0,1,16.962,22.923Zm0-11.006a5.044,5.044,0,1,0,5.044,5.044A5.05,5.05,0,0,0,16.962,11.917Z" transform="translate(561.089 455.761)" fill="#0fa655" stroke="#0fa655" stroke-width="0.3"/>
+      <path id="Path_95250" data-name="Path 95250" d="M8.713,19.26H1.376A1.377,1.377,0,0,1,0,17.885V1.376A1.377,1.377,0,0,1,1.376,0H17.885A1.377,1.377,0,0,1,19.26,1.376V8.713a.459.459,0,1,1-.917,0V1.376a.459.459,0,0,0-.459-.459H1.376a.459.459,0,0,0-.459.459V17.885a.459.459,0,0,0,.459.459H8.713a.459.459,0,1,1,0,.917Z" transform="translate(562 456.672)" fill="#0fa655" stroke="#0fa655" stroke-width="0.3"/>
+      <path id="Path_95251" data-name="Path 95251" d="M13.8,8.254a.459.459,0,0,1-.275-.092L10.127,5.618,6.734,8.163A.459.459,0,0,1,6,7.8V.459A.459.459,0,0,1,6.459,0H13.8a.459.459,0,0,1,.459.459V7.8a.459.459,0,0,1-.253.41A.466.466,0,0,1,13.8,8.254ZM10.127,4.586a.457.457,0,0,1,.275.092l2.935,2.2V.917H6.917V6.879l2.935-2.2A.457.457,0,0,1,10.127,4.586Z" transform="translate(561.503 456.672)" fill="#0fa655" stroke="#0fa655" stroke-width="0.4"/>
+      <g id="Group_44982" data-name="Group 44982" transform="translate(561.5 456.771)">
+        <path id="Path_95249" data-name="Path 95249" d="M16.433,19.586a.507.507,0,0,1-.344-.134l-1.946-1.834a.44.44,0,0,1,0-.648.508.508,0,0,1,.688,0l.8.757.775.731,1.807-1.579a.507.507,0,0,1,.687-.043.441.441,0,0,1,.046.648L16.8,19.43a.5.5,0,0,1-.35.156Z" transform="translate(0 -1.242)" fill="#0fa655" stroke="#0fa655" stroke-width="0.3"/>
+        <line id="Line_6406" data-name="Line 6406" y2="4" transform="translate(16.5 13.5)" fill="none" stroke="#0fa655" stroke-linecap="round" stroke-width="1.2"/>
+      </g>
+    </g>
+  </g>
+</svg>
